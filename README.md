@@ -50,3 +50,14 @@ It focuses on Windows Server administration, Active Directory, domain-joined cli
 This portfolio is based on a simulated Active Directory lab environment built in Proxmox for learning and portfolio development purposes.
 
 The environment uses Proxmox for virtualization and OPNsense for internal lab network separation, with Windows Server and a Windows client used to practice common administration tasks in a Windows domain environment.
+
+## Tools and Technologies
+- Proxmox VE
+- Windows Server 2025
+- Windows 11
+- Active Directory Domain Services (AD DS)
+- DNS
+- Group Policy Management
+- Managed Switch (network and VLAN separation)
+- OPNsense
+- GitHub
