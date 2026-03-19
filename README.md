@@ -39,7 +39,7 @@ It focuses on Windows Server administration, Active Directory, domain-joined cli
 ## Lab Projects
 
 | Lab No. | Project Title | Focus Area | Status |
-|--------|---------------|------------|--------|
+|-|-|-|-|
 | 01 | [Install and Configure Active Directory Domain Services](./Lab01-Install-AD-DS/) | Domain setup / AD DS / DNS | In Progress |
 | 02 | [Create Users, Groups, and Organizational Units](./Lab02-Users-Groups-OUs/) | Identity administration | Planned |
 | 03 | [Join a Windows Client to the Domain](./Lab03-Domain-Join-Client/) | Domain join / client management | Planned |
