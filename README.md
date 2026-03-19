@@ -41,7 +41,7 @@ It focuses on Windows Server administration, Active Directory, domain-joined cli
 | Lab No. | Project Title | Focus Area | Status |
 |-|-|-|-|
 | 01 | [Install and Configure AD DS](./Lab01-Install-AD-DS/) | Domain setup / AD DS / DNS | In Progress |
-| 02 | [Create Users, Groups, and Organizational Units](./Lab02-Users-Groups-OUs/) | Identity administration | Planned |
+| 02 | [Create Users, Groups, and OUs](./Lab02-Users-Groups-OUs/) | Identity administration | Planned |
 | 03 | [Join a Windows Client to the Domain](./Lab03-Domain-Join-Client/) | Domain join / client management | Planned |
 | 04 | [Shared Folder and NTFS Permission Management](./Lab04-Shared-Folder-Permissions/) | File access / permissions | Planned |
 | 05 | [Group Policy Configuration](./Lab05-GPO/) | Policy management / desktop control | Planned |
