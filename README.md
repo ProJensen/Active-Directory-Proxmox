@@ -45,3 +45,8 @@ It focuses on Windows Server administration, Active Directory, domain-joined cli
 | 03 | [Join Client to Domain](./Lab03-Domain-Join-Client/) | Domain join / client management | Planned |
 | 04 | [Shared Folder Permission](./Lab04-Shared-Folder-Permissions/) | File access / permissions | Planned |
 | 05 | [Group Policy](./Lab05-GPO/) | Policy management / desktop configuration | Planned |
+
+## Lab Environment
+This portfolio is based on a simulated Active Directory lab environment built in Proxmox for learning and portfolio development purposes.
+
+The environment includes Windows Server, a domain setup, and a Windows client to practice common administration tasks in a Windows domain environment.
