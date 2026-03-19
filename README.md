@@ -25,7 +25,7 @@ It focuses on Windows Server administration, Active Directory, domain-joined cli
 - Strengthen practical knowledge of domain environments, user management, and group policy configuration
 - Demonstrate initiative and hands-on learning for IT support and system administration roles
 
-# Skills Covered
+## Skills Covered
 - Active Directory
 - Windows Server 2025
 - Active Directory Domain Services (AD DS)
