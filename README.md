@@ -49,4 +49,4 @@ It focuses on Windows Server administration, Active Directory, domain-joined cli
 ## Lab Environment
 This portfolio is based on a simulated Active Directory lab environment built in Proxmox for learning and portfolio development purposes.
 
-The environment includes Windows Server, a domain setup, and a Windows client to practice common administration tasks in a Windows domain environment.
+The environment uses Proxmox for virtualization and OPNsense for internal lab network separation, with Windows Server and a Windows client used to practice common administration tasks in a Windows domain environment.
