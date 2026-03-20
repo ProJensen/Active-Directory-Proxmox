@@ -79,24 +79,19 @@ Active-Directory-Proxmox/
 ├── README.md
 ├── Lab01-Install-AD-DS/
 │   ├── README.md
-│   ├── screenshots/
-│   └── diagrams/
+│   └── screenshots/
 ├── Lab02-Users-Groups-OUs/
 │   ├── README.md
-│   ├── screenshots/
-│   └── diagrams/
+│   └── screenshots/
 ├── Lab03-Domain-Join-Client/
 │   ├── README.md
-│   ├── screenshots/
-│   └── diagrams/
+│   └── screenshots/
 ├── Lab04-Shared-Folder-Permissions/
 │   ├── README.md
-│   ├── screenshots/
-│   └── diagrams/
+│   └── screenshots/
 └── Lab05-GPO/
     ├── README.md
-    ├── screenshots/
-    └── diagrams/
+    └── screenshots/
 ```
 
 ## Progress Tracker
