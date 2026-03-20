@@ -124,3 +124,17 @@ At the end of this lab:
 - The server is promoted to a Domain Controller
 - A new Active Directory forest named **lab.local** is created
 - The environment is ready for domain user and client management
+
+## Common Issues and Troubleshooting
+
+### Issue 1: Server cannot be promoted to a Domain Controller
+Possible causes:
+- Static IP address is not configured
+- DNS settings are incorrect
+- The AD DS role installation did not complete successfully
+
+### Issue 2: Domain configuration validation fails
+Possible causes:
+- Invalid domain name choice
+- Incorrect network configuration
+- DNS-related issues
