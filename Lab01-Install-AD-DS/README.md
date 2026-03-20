@@ -114,7 +114,7 @@ This step creates the first Domain Controller and establishes the Active Directo
 
 This step confirms that the server promotion process completed successfully and that the server is now operating as a Domain Controller.
 
-![Server Manager After Promotion](/screenshots/5_Server_Manager_After_Promotion.png)
+![Server Manager After Promotion](./screenshots/5_Server_Manager_After_Promotion.png)
 
 ## Expected Outcome
 At the end of this lab:
