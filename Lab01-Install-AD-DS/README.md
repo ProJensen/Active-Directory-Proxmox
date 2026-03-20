@@ -49,3 +49,13 @@ As the IT administrator, I need to configure a Windows Server system as the firs
 ![Rename Server](https://raw.githubusercontent.com/ProJensen/Active-Directory-Proxmox/refs/heads/main/Lab01-Install-AD-DS/screenshots/1_Rename_Server.png?token=GHSAT0AAAAAADXN5BH66BINIHDHNIRZFVLA2N4VATA)
 
 ![Renamed](https://raw.githubusercontent.com/ProJensen/Active-Directory-Proxmox/refs/heads/main/Lab01-Install-AD-DS/screenshots/1_Renamed.png?token=GHSAT0AAAAAADXN5BH6J4FQXIQA5X6XJWUC2N4VBDQ)
+
+### Step 2: Configure a Static IP Address
+- In **Server Manager**, go to **Local Server**
+- Select the active Ethernet adapter
+- Open the IPv4 settings
+- Configure the following static network settings:
+  - IP address: **10.10.10.10**
+  - Subnet mask: **255.255.255.0**
+  - Default gateway: **10.10.10.1**
+  - Preferred DNS server: **10.10.10.10**
