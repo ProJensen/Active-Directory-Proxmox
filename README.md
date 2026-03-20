@@ -40,7 +40,7 @@ It focuses on Windows Server administration, Active Directory, domain-joined cli
 
 | Lab No. | Project Title | Focus Area | Status |
 |-|-|-|-|
-| 01 | [Install AD DS](./Lab01-Install-AD-DS/) | Domain setup / AD DS / DNS | In Progress |
+| 01 | [Install AD DS](./Lab01-Install-AD-DS/) | Domain setup / AD DS / DNS | Completed |
 | 02 | [Create Users, Groups, and OUs](./Lab02-Users-Groups-OUs/) | Identity administration | Planned |
 | 03 | [Join Client to Domain](./Lab03-Domain-Join-Client/) | Domain join / client management | Planned |
 | 04 | [Shared Folder Permission](./Lab04-Shared-Folder-Permissions/) | File access / permissions | Planned |
@@ -95,7 +95,7 @@ Active-Directory-Proxmox/
 ```
 
 ## Progress Tracker
-- [ ] Complete Lab 01 - Install AD DS
+- [x] Complete Lab 01 - Install AD DS
 - [ ] Complete Lab 02 - Create Users, Groups, and OUs
 - [ ] Complete Lab 03 - Join Client to Domain
 - [ ] Complete Lab 04 - Shared Folder Permissions
