@@ -115,3 +115,12 @@ This step creates the first Domain Controller and establishes the Active Directo
 This step confirms that the server promotion process completed successfully and that the server is now operating as a Domain Controller.
 
 ![Server Manager After Promotion]
+
+## Expected Outcome
+At the end of this lab:
+- The Windows Server VM is renamed to **DC01**
+- A static IP address is configured
+- The Active Directory Domain Services role is installed
+- The server is promoted to a Domain Controller
+- A new Active Directory forest named **lab.local** is created
+- The environment is ready for domain user and client management
