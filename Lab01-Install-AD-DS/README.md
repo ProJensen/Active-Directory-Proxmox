@@ -86,3 +86,13 @@ This step installs the Windows Server role required for Active Directory.
 ![Add AD DS](https://raw.githubusercontent.com/ProJensen/Active-Directory-Proxmox/refs/heads/main/Lab01-Install-AD-DS/screenshots/3_Add_AD_DS.png?token=GHSAT0AAAAAADXN5BH75MNOLR3OB2VLH7E62N5LEMQ)
 
 ![Install](https://raw.githubusercontent.com/ProJensen/Active-Directory-Proxmox/refs/heads/main/Lab01-Install-AD-DS/screenshots/3_Install.png?token=GHSAT0AAAAAADXN5BH7IDKJSY6DXSU2K2OW2N5LFDQ)
+
+### Step 4: Promote the Server to a Domain Controller
+- After the AD DS role installation finishes, select the notification flag in **Server Manager**
+- Click **Promote this server to a domain controller**
+- Choose **Add a new forest**
+- Enter the root domain name: **lab.local**
+- Configure the Directory Services Restore Mode (DSRM) password
+- Continue through the wizard and complete the installation
+
+This step creates the first Domain Controller and establishes the Active Directory forest.
