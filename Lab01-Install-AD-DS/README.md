@@ -96,3 +96,22 @@ This step installs the Windows Server role required for Active Directory.
 - Continue through the wizard and complete the installation
 
 This step creates the first Domain Controller and establishes the Active Directory forest.
+
+![Promote Server to DC]
+
+![Domain Name]
+
+![DSRM Password]
+
+![Install]
+
+### Step 5: Restart and Verify the Configuration
+- Allow the server to restart automatically after promotion
+- Sign in using the domain administrator account
+- Open **Server Manager**
+- Confirm that **AD DS** and **DNS** are installed
+- Verify that the server is now operating as a Domain Controller
+
+This step confirms that the promotion process completed successfully.
+
+![Server Manager After Promotion]
