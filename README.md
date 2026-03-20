@@ -71,3 +71,30 @@ The environment uses Proxmox for virtualization and OPNsense for internal lab ne
 - Configuring shared folders and NTFS permissions
 - Applying Group Policy settings
 - Developing troubleshooting skills
+
+## Repository Structure
+```text
+Active-Directory-Proxmox/
+│
+├── README.md
+├── Lab01-Install-AD-DS/
+│   ├── README.md
+│   ├── screenshots/
+│   └── diagrams/
+├── Lab02-Users-Groups-OUs/
+│   ├── README.md
+│   ├── screenshots/
+│   └── diagrams/
+├── Lab03-Domain-Join-Client/
+│   ├── README.md
+│   ├── screenshots/
+│   └── diagrams/
+├── Lab04-Shared-Folder-Permissions/
+│   ├── README.md
+│   ├── screenshots/
+│   └── diagrams/
+└── Lab05-GPO/
+    ├── README.md
+    ├── screenshots/
+    └── diagrams/
+```
