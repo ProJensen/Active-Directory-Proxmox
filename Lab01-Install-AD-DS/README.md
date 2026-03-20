@@ -114,7 +114,7 @@ This step creates the first Domain Controller and establishes the Active Directo
 
 This step confirms that the server promotion process completed successfully and that the server is now operating as a Domain Controller.
 
-![Server Manager After Promotion](https://raw.githubusercontent.com/ProJensen/Active-Directory-Proxmox/refs/heads/main/Lab01-Install-AD-DS/screenshots/5_Server_Manager_After_Promotion.png?token=GHSAT0AAAAAADXN5BH7KCD54XYSYWDYVZSC2N5MHPA)
+![Server Manager After Promotion](/screenshots/5_Server_Manager_After_Promotion.png)
 
 ## Expected Outcome
 At the end of this lab:
