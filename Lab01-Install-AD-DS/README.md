@@ -19,3 +19,10 @@ The purpose of this project is to demonstrate the core administrative workflow r
 A small business is setting up its first internal Windows domain environment to centralize authentication, user management, and administrative control.
 
 As the IT administrator, I need to configure a Windows Server system as the first Domain Controller for the organization.
+
+## Objectives
+- Rename the Windows Server virtual machine to a meaningful server name
+- Configure a static IP address
+- Install the Active Directory Domain Services role
+- Promote the server to a Domain Controller
+- Create a new Active Directory forest
