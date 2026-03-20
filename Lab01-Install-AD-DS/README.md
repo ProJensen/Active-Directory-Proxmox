@@ -1,4 +1,4 @@
-# Lab01 - Install Active Directory Domain Services
+# Lab 01 - Install Active Directory Domain Services
 
 ## Table of Contents
 - [Overview](#overview)
