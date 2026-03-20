@@ -82,3 +82,5 @@ This step installs the Windows Server role required for Active Directory.
 ![Add Roles and Features](https://raw.githubusercontent.com/ProJensen/Active-Directory-Proxmox/refs/heads/main/Lab01-Install-AD-DS/screenshots/3_Add_Roles_Features.png?token=GHSAT0AAAAAADXN5BH6A2GRGDDMM7UX5W622N5LCYQ)
 
 ![Installation Type](https://raw.githubusercontent.com/ProJensen/Active-Directory-Proxmox/refs/heads/main/Lab01-Install-AD-DS/screenshots/3_Installation_Type.png?token=GHSAT0AAAAAADXN5BH74IEQTX7TMGGOGTBO2N5LDTQ)
+
+![Add AD DS](https://raw.githubusercontent.com/ProJensen/Active-Directory-Proxmox/refs/heads/main/Lab01-Install-AD-DS/screenshots/3_Add_AD_DS.png?token=GHSAT0AAAAAADXN5BH75MNOLR3OB2VLH7E62N5LEMQ)
