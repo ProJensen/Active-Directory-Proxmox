@@ -15,3 +15,7 @@ This lab documents the initial deployment of Active Directory Domain Services (A
 
 The purpose of this project is to demonstrate the core administrative workflow required to prepare a Windows Server virtual machine, configure its network settings, install AD DS, and promote it to a Domain Controller.
 
+## Scenario
+A small business is setting up its first internal Windows domain environment to centralize authentication, user management, and administrative control.
+
+As the IT administrator, I need to configure a Windows Server system as the first Domain Controller for the organization.
