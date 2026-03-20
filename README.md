@@ -105,3 +105,8 @@ Active-Directory-Proxmox/
 - [ ] Complete Lab 03 - Join Client to Domain
 - [ ] Complete Lab 04 - Shared Folder Permissions
 - [ ] Complete Lab 05 - Group Policy
+
+## Author
+**Jenhon Sze**
+
+This repository is part of my IT support, system administration, and home lab learning portfolio.
