@@ -34,3 +34,12 @@ As the IT administrator, I need to configure a Windows Server system as the firs
 - DNS
 - Server Manager
 
+## Administrative Workflow
+
+### Step 1: Rename the Server
+- Open **Server Manager**
+- Go to **Local Server**
+- Select the current **Computer name**
+- Click **Change**
+- Rename the server to **DC01**
+- Restart the server when prompted
