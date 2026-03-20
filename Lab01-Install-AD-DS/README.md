@@ -62,3 +62,9 @@ As the IT administrator, I need to configure a Windows Server system as the firs
   - Preferred DNS server: **10.10.10.10**
 
 A Domain Controller should use a static IP address to ensure reliable DNS registration and domain communication.
+
+![Ethernet](https://raw.githubusercontent.com/ProJensen/Active-Directory-Proxmox/refs/heads/main/Lab01-Install-AD-DS/screenshots/2_Ethernet.png?token=GHSAT0AAAAAADXN5BH77NWWXCQEKHZMDBIC2N4VN5Q)
+
+![IPv4](https://raw.githubusercontent.com/ProJensen/Active-Directory-Proxmox/refs/heads/main/Lab01-Install-AD-DS/screenshots/2_IPv4.png?token=GHSAT0AAAAAADXN5BH66BKSZD4RTVJWL7RW2N4VOMQ)
+
+![Static IP](https://raw.githubusercontent.com/ProJensen/Active-Directory-Proxmox/refs/heads/main/Lab01-Install-AD-DS/screenshots/2_Static_IP.png?token=GHSAT0AAAAAADXN5BH6TZGPROQGY25M46PQ2N4VOVQ)
