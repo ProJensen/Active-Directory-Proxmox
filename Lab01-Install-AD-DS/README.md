@@ -47,3 +47,5 @@ As the IT administrator, I need to configure a Windows Server system as the firs
 ![Local Server](https://raw.githubusercontent.com/ProJensen/Active-Directory-Proxmox/refs/heads/main/Lab01-Install-AD-DS/screenshots/1_Local_Server.png?token=GHSAT0AAAAAADXN5BH6YIITISLB2PN4VDPK2N4VAFA)
 
 ![Rename Server](https://raw.githubusercontent.com/ProJensen/Active-Directory-Proxmox/refs/heads/main/Lab01-Install-AD-DS/screenshots/1_Rename_Server.png?token=GHSAT0AAAAAADXN5BH66BINIHDHNIRZFVLA2N4VATA)
+
+![Renamed](https://raw.githubusercontent.com/ProJensen/Active-Directory-Proxmox/refs/heads/main/Lab01-Install-AD-DS/screenshots/1_Renamed.png?token=GHSAT0AAAAAADXN5BH6J4FQXIQA5X6XJWUC2N4VBDQ)
