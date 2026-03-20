@@ -59,3 +59,5 @@ As the IT administrator, I need to configure a Windows Server system as the firs
   - Subnet mask: **255.255.255.0**
   - Default gateway: **10.10.10.1**
   - Preferred DNS server: **10.10.10.10**
+
+A Domain Controller should use a static IP address to ensure reliable DNS registration and domain communication.
