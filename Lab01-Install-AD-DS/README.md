@@ -44,11 +44,11 @@ As the IT administrator, I need to configure a Windows Server system as the firs
 - Rename the server to **DC01**
 - Restart the server when prompted
 
-![Local Server](https://raw.githubusercontent.com/ProJensen/Active-Directory-Proxmox/refs/heads/main/Lab01-Install-AD-DS/screenshots/1_Local_Server.png?token=GHSAT0AAAAAADXN5BH7FMET7DU55EFCM6TG2N5MC4A)
+![Local Server](./screenshots/1_Local_Server.png)
 
-![Rename Server](https://raw.githubusercontent.com/ProJensen/Active-Directory-Proxmox/refs/heads/main/Lab01-Install-AD-DS/screenshots/1_Rename_Server.png?token=GHSAT0AAAAAADXN5BH7UF6UL2BI5ILJX4ZA2N5MDFA)
+![Rename Server](./screenshots/1_Rename_Server.png)
 
-![Renamed](https://raw.githubusercontent.com/ProJensen/Active-Directory-Proxmox/refs/heads/main/Lab01-Install-AD-DS/screenshots/1_Renamed.png?token=GHSAT0AAAAAADXN5BH7GSEF32LB224TQWDM2N5MDMQ)
+![Renamed](./screenshots/1_Renamed.png)
 
 ### Step 2: Configure a Static IP Address
 - In **Server Manager**, go to **Local Server**
