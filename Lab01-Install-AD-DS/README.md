@@ -63,11 +63,11 @@ As the IT administrator, I need to configure a Windows Server system as the firs
 
 A Domain Controller should use a static IP address to ensure reliable DNS registration and domain communication.
 
-![Ethernet]
+![Ethernet](https://raw.githubusercontent.com/ProJensen/Active-Directory-Proxmox/refs/heads/main/Lab01-Install-AD-DS/screenshots/2_Ethernet.png?token=GHSAT0AAAAAADXN5BH6UPV3XHRDPL4JDI2K2N5MD2Q)
 
-![IPv4]
+![IPv4](https://raw.githubusercontent.com/ProJensen/Active-Directory-Proxmox/refs/heads/main/Lab01-Install-AD-DS/screenshots/2_IPv4.png?token=GHSAT0AAAAAADXN5BH6VIVB3STM36THGP222N5MEBQ)
 
-![Static IP]
+![Static IP](https://raw.githubusercontent.com/ProJensen/Active-Directory-Proxmox/refs/heads/main/Lab01-Install-AD-DS/screenshots/2_Static_IP.png?token=GHSAT0AAAAAADXN5BH6COF7QLITOPOZRFTM2N5MEHQ)
 
 ### Step 3: Install the AD DS Role
 - In **Server Manager**, select **Manage** > **Add Roles and Features**
