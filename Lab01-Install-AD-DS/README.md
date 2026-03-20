@@ -13,12 +13,12 @@
 ## Overview
 This lab documents the initial deployment of Active Directory Domain Services (AD DS) in a Windows Server environment.
 
-The purpose of this project is to demonstrate the core administrative workflow required to prepare a Windows Server virtual machine, configure its network settings, install AD DS, and promote it to a Domain Controller.
+The purpose of this project is to demonstrate the core administrative workflow required to prepare a Windows Server virtual machine, configure its network settings, install AD DS, and promote the server to a Domain Controller.
 
 ## Scenario
 A small business is setting up its first internal Windows domain environment to centralize authentication, user management, and administrative control.
 
-As the IT administrator, I need to configure a Windows Server system as the first Domain Controller for the organization.
+As the IT administrator, I need to configure a Windows Server virtual machine as the first Domain Controller for the organization.
 
 ## Objectives
 - Rename the Windows Server virtual machine to a meaningful server name
@@ -42,7 +42,7 @@ As the IT administrator, I need to configure a Windows Server system as the firs
 - Select the current **Computer name**
 - Click **Change**
 - Rename the server to **DC01**
-- Restart the server when prompted
+- Restart the server to apply the computer name change
 
 ![Local Server](./screenshots/1_Local_Server.png)
 
@@ -53,7 +53,7 @@ As the IT administrator, I need to configure a Windows Server system as the firs
 ### Step 2: Configure a Static IP Address
 - In **Server Manager**, go to **Local Server**
 - Select **Ethernet**
-- Right-click **Eternet** in **Network Connections** and select **Properties**
+- Right-click **Ethernet** in **Network Connections** and select **Properties**
 - Select **IPv4** and click on **Properties**
 - Configure the following static network settings:
   - IP address: **10.10.10.10**
@@ -77,7 +77,7 @@ A Domain Controller should use a static IP address to ensure reliable DNS regist
 - Add the required features when prompted
 - Continue through the wizard and install the role
 
-This step installs the Windows Server role required for Active Directory.
+This step installs the Windows Server role required to support Active Directory Domain Services in the environment.
 
 ![Add Roles and Features](./screenshots/3_Add_Roles_Features.png)
 
@@ -138,6 +138,12 @@ Possible causes:
 - Invalid domain name choice
 - Incorrect network configuration
 - DNS-related issues
+
+### Issue 3: Server does not resolve the domain name correctly
+Possible causes:
+- Preferred DNS server is set incorrectly
+- The server is still using DHCP settings
+- DNS configuration was not updated after promotion
 
 ## What I Learned
 I learned how server naming, static IP configuration, AD DS installation, DNS, and Domain Controller promotion work together as part of building a Windows domain environment. This lab also strengthened my understanding of the preparation steps required before managing users, client devices, and Group Policy in Active Directory.
