@@ -44,11 +44,11 @@ As the IT administrator, I need to configure a Windows Server system as the firs
 - Rename the server to **DC01**
 - Restart the server when prompted
 
-![Local Server](https://raw.githubusercontent.com/ProJensen/Active-Directory-Proxmox/refs/heads/main/Lab01-Install-AD-DS/screenshots/1_Local_Server.png?token=GHSAT0AAAAAADXN5BH6LYZZT6JZX3ZSZKQI2N4VLSQ)
+![Local Server]
 
-![Rename Server](https://raw.githubusercontent.com/ProJensen/Active-Directory-Proxmox/refs/heads/main/Lab01-Install-AD-DS/screenshots/1_Rename_Server.png?token=GHSAT0AAAAAADXN5BH6LLNVAOXGCJT2A4WC2N4VMCQ)
+![Rename Server]
 
-![Renamed](https://raw.githubusercontent.com/ProJensen/Active-Directory-Proxmox/refs/heads/main/Lab01-Install-AD-DS/screenshots/1_Renamed.png?token=GHSAT0AAAAAADXN5BH6NWICO2YESP3P35BQ2N4VMNQ)
+![Renamed]
 
 ### Step 2: Configure a Static IP Address
 - In **Server Manager**, go to **Local Server**
@@ -63,11 +63,11 @@ As the IT administrator, I need to configure a Windows Server system as the firs
 
 A Domain Controller should use a static IP address to ensure reliable DNS registration and domain communication.
 
-![Ethernet](https://raw.githubusercontent.com/ProJensen/Active-Directory-Proxmox/refs/heads/main/Lab01-Install-AD-DS/screenshots/2_Ethernet.png?token=GHSAT0AAAAAADXN5BH77NWWXCQEKHZMDBIC2N4VN5Q)
+![Ethernet]
 
-![IPv4](https://raw.githubusercontent.com/ProJensen/Active-Directory-Proxmox/refs/heads/main/Lab01-Install-AD-DS/screenshots/2_IPv4.png?token=GHSAT0AAAAAADXN5BH66BKSZD4RTVJWL7RW2N4VOMQ)
+![IPv4]
 
-![Static IP](https://raw.githubusercontent.com/ProJensen/Active-Directory-Proxmox/refs/heads/main/Lab01-Install-AD-DS/screenshots/2_Static_IP.png?token=GHSAT0AAAAAADXN5BH6TZGPROQGY25M46PQ2N4VOVQ)
+![Static IP]
 
 ### Step 3: Install the AD DS Role
 - In **Server Manager**, select **Manage** > **Add Roles and Features**
@@ -79,13 +79,13 @@ A Domain Controller should use a static IP address to ensure reliable DNS regist
 
 This step installs the Windows Server role required for Active Directory.
 
-![Add Roles and Features](https://raw.githubusercontent.com/ProJensen/Active-Directory-Proxmox/refs/heads/main/Lab01-Install-AD-DS/screenshots/3_Add_Roles_Features.png?token=GHSAT0AAAAAADXN5BH6A2GRGDDMM7UX5W622N5LCYQ)
+![Add Roles and Features]
 
-![Installation Type](https://raw.githubusercontent.com/ProJensen/Active-Directory-Proxmox/refs/heads/main/Lab01-Install-AD-DS/screenshots/3_Installation_Type.png?token=GHSAT0AAAAAADXN5BH74IEQTX7TMGGOGTBO2N5LDTQ)
+![Installation Type]
 
-![Add AD DS](https://raw.githubusercontent.com/ProJensen/Active-Directory-Proxmox/refs/heads/main/Lab01-Install-AD-DS/screenshots/3_Add_AD_DS.png?token=GHSAT0AAAAAADXN5BH75MNOLR3OB2VLH7E62N5LEMQ)
+![Add AD DS]
 
-![Install](https://raw.githubusercontent.com/ProJensen/Active-Directory-Proxmox/refs/heads/main/Lab01-Install-AD-DS/screenshots/3_Install.png?token=GHSAT0AAAAAADXN5BH7IDKJSY6DXSU2K2OW2N5LFDQ)
+![Install]
 
 ### Step 4: Promote the Server to a Domain Controller
 - After the AD DS role installation finishes, select the notification flag in **Server Manager**
