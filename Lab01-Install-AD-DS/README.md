@@ -79,13 +79,13 @@ A Domain Controller should use a static IP address to ensure reliable DNS regist
 
 This step installs the Windows Server role required for Active Directory.
 
-![Add Roles and Features]
+![Add Roles and Features](https://raw.githubusercontent.com/ProJensen/Active-Directory-Proxmox/refs/heads/main/Lab01-Install-AD-DS/screenshots/3_Add_Roles_Features.png?token=GHSAT0AAAAAADXN5BH7I7PE3PPMOVMBX7N22N5META)
 
-![Installation Type]
+![Installation Type](https://raw.githubusercontent.com/ProJensen/Active-Directory-Proxmox/refs/heads/main/Lab01-Install-AD-DS/screenshots/3_Installation_Type.png?token=GHSAT0AAAAAADXN5BH6AH44Z6AUVI7XDB662N5ME4Q)
 
-![Add AD DS]
+![Add AD DS](https://raw.githubusercontent.com/ProJensen/Active-Directory-Proxmox/refs/heads/main/Lab01-Install-AD-DS/screenshots/3_Add_AD_DS.png?token=GHSAT0AAAAAADXN5BH7DZ3NS52BPQDG74C42N5MFHA)
 
-![Install]
+![Install](https://raw.githubusercontent.com/ProJensen/Active-Directory-Proxmox/refs/heads/main/Lab01-Install-AD-DS/screenshots/3_Install.png?token=GHSAT0AAAAAADXN5BH75MYTQY5IW3TFO5YK2N5MFOQ)
 
 ### Step 4: Promote the Server to a Domain Controller
 - After the AD DS role installation finishes, select the notification flag in **Server Manager**
@@ -97,13 +97,13 @@ This step installs the Windows Server role required for Active Directory.
 
 This step creates the first Domain Controller and establishes the Active Directory forest.
 
-![Promote Server to DC]
+![Promote Server to DC](https://raw.githubusercontent.com/ProJensen/Active-Directory-Proxmox/refs/heads/main/Lab01-Install-AD-DS/screenshots/4_Promote_Server_To_DC.png?token=GHSAT0AAAAAADXN5BH7PBZZU3NJ5BFMXR4K2N5MF6Q)
 
-![Domain Name]
+![Domain Name](https://raw.githubusercontent.com/ProJensen/Active-Directory-Proxmox/refs/heads/main/Lab01-Install-AD-DS/screenshots/4_Domain_Name.png?token=GHSAT0AAAAAADXN5BH7LMAFTBTWT5UVHMCO2N5MGFA)
 
-![DSRM Password]
+![DSRM Password](https://raw.githubusercontent.com/ProJensen/Active-Directory-Proxmox/refs/heads/main/Lab01-Install-AD-DS/screenshots/4_DSRM_Password.png?token=GHSAT0AAAAAADXN5BH7D4XFIPVYE66P6LUI2N5MGMQ)
 
-![Install]
+![Install](https://raw.githubusercontent.com/ProJensen/Active-Directory-Proxmox/refs/heads/main/Lab01-Install-AD-DS/screenshots/4_Install.png?token=GHSAT0AAAAAADXN5BH6GEATXTNTC5KYOVQE2N5MHGA)
 
 ### Step 5: Restart and Verify the Configuration
 - Allow the server to restart automatically after promotion
@@ -114,7 +114,7 @@ This step creates the first Domain Controller and establishes the Active Directo
 
 This step confirms that the server promotion process completed successfully and that the server is now operating as a Domain Controller.
 
-![Server Manager After Promotion]
+![Server Manager After Promotion](https://raw.githubusercontent.com/ProJensen/Active-Directory-Proxmox/refs/heads/main/Lab01-Install-AD-DS/screenshots/5_Server_Manager_After_Promotion.png?token=GHSAT0AAAAAADXN5BH7KCD54XYSYWDYVZSC2N5MHPA)
 
 ## Expected Outcome
 At the end of this lab:
