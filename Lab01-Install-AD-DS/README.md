@@ -43,3 +43,5 @@ As the IT administrator, I need to configure a Windows Server system as the firs
 - Click **Change**
 - Rename the server to **DC01**
 - Restart the server when prompted
+
+![Local Server](https://raw.githubusercontent.com/ProJensen/Active-Directory-Proxmox/refs/heads/main/Lab01-Install-AD-DS/screenshots/1_Local_Server.png?token=GHSAT0AAAAAADXN5BH6YIITISLB2PN4VDPK2N4VAFA)
