@@ -26,3 +26,11 @@ As the IT administrator, I need to configure a Windows Server system as the firs
 - Install the Active Directory Domain Services role
 - Promote the server to a Domain Controller
 - Create a new Active Directory forest
+
+## Tools and Services Used
+- Proxmox VE
+- Windows Server 2025
+- Active Directory Domain Services (AD DS)
+- DNS
+- Server Manager
+
