@@ -61,3 +61,13 @@ The environment uses Proxmox for virtualization and OPNsense for internal lab ne
 - Managed Switch (network and VLAN separation)
 - OPNsense
 - GitHub
+
+## Key Learning Areas
+- Building an Active Directory lab in a virtualized environment
+- Installing and configuring a Windows Server Domain Controller
+- Understanding DNS and domain join requirements in a Windows domain
+- Managing users, groups, and organizational units in Active Directory
+- Joining a Windows client to the domain
+- Configuring shared folders and NTFS permissions
+- Applying Group Policy settings
+- Developing troubleshooting skills
