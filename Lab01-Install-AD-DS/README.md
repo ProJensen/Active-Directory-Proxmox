@@ -138,3 +138,6 @@ Possible causes:
 - Invalid domain name choice
 - Incorrect network configuration
 - DNS-related issues
+
+## What I Learned
+I learned how server naming, static IP configuration, AD DS installation, DNS, and Domain Controller promotion work together as part of building a Windows domain environment. This lab also strengthened my understanding of the preparation steps required before managing users, client devices, and Group Policy in Active Directory.
