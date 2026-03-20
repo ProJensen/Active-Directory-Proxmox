@@ -52,8 +52,9 @@ As the IT administrator, I need to configure a Windows Server system as the firs
 
 ### Step 2: Configure a Static IP Address
 - In **Server Manager**, go to **Local Server**
-- Select the active Ethernet adapter
-- Open the IPv4 settings
+- Select **Ethernet**
+- Right-click **Eternet** in **Network Connections** and select **Properties**
+- Select **IPv4** and click on **Properties**
 - Configure the following static network settings:
   - IP address: **10.10.10.10**
   - Subnet mask: **255.255.255.0**
