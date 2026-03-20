@@ -109,9 +109,9 @@ This step creates the first Domain Controller and establishes the Active Directo
 - Allow the server to restart automatically after promotion
 - Sign in using the domain administrator account
 - Open **Server Manager**
-- Confirm that **AD DS** and **DNS** are installed
-- Verify that the server is now operating as a Domain Controller
+- Confirm that the server is joined to the **lab.local** domain
+- Verify that **AD DS** and **DNS** are now installed and visible in Server Manager
 
-This step confirms that the promotion process completed successfully.
+This step confirms that the server promotion process completed successfully and that the server is now operating as a Domain Controller.
 
 ![Server Manager After Promotion]
