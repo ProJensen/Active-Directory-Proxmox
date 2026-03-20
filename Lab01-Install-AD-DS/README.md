@@ -68,3 +68,13 @@ A Domain Controller should use a static IP address to ensure reliable DNS regist
 ![IPv4](https://raw.githubusercontent.com/ProJensen/Active-Directory-Proxmox/refs/heads/main/Lab01-Install-AD-DS/screenshots/2_IPv4.png?token=GHSAT0AAAAAADXN5BH66BKSZD4RTVJWL7RW2N4VOMQ)
 
 ![Static IP](https://raw.githubusercontent.com/ProJensen/Active-Directory-Proxmox/refs/heads/main/Lab01-Install-AD-DS/screenshots/2_Static_IP.png?token=GHSAT0AAAAAADXN5BH6TZGPROQGY25M46PQ2N4VOVQ)
+
+### Step 3: Install the AD DS Role
+- In **Server Manager**, select **Manage** > **Add Roles and Features**
+- Choose **Role-based or feature-based installation**
+- Select the local server
+- Check **Active Directory Domain Services**
+- Add the required features when prompted
+- Continue through the wizard and install the role
+
+This step installs the Windows Server role required for Active Directory.
