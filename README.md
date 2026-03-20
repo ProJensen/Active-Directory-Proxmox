@@ -98,3 +98,10 @@ Active-Directory-Proxmox/
     ├── screenshots/
     └── diagrams/
 ```
+
+## Progress Tracker
+- [ ] Complete Lab 01 - Install AD DS
+- [ ] Complete Lab 02 - Create Users, Groups, and OUs
+- [ ] Complete Lab 03 - Join Client to Domain
+- [ ] Complete Lab 04 - Shared Folder Permissions
+- [ ] Complete Lab 05 - Group Policy
