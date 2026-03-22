@@ -34,3 +34,8 @@ As the IT administrator, I need to create Organizational Units for different dep
 - Server Manager
 
 ## Administrative Workflow
+
+### Step 1: Open Active Directory Users and Computers
+- Open **Server Manager**
+- Select **Tools**
+- Click **Active Directory Users and Computers**
