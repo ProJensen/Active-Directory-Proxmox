@@ -25,3 +25,10 @@ As the IT administrator, I need to create Organizational Units for different dep
 - Create groups for access management
 - Create domain user accounts
 - Assign users to the appropriate groups
+
+## Tools and Services Used
+- Proxmox VE
+- Windows Server 2025
+- Active Directory Users and Computers
+- Active Directory Domain Services (AD DS)
+- Server Manager
