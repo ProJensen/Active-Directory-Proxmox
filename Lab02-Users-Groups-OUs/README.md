@@ -9,3 +9,8 @@
 - [Expected Outcome](#expected-outcome)
 - [Common Issues and Troubleshooting](#common-issues-and-troubleshooting)
 - [What I Learned](#what-i-learned)
+
+## Overview
+This lab documents the process of creating Organizational Units (OUs), groups, and user accounts in Active Directory.
+
+The purpose of this project is to demonstrate the core administrative workflow required to organize a domain environment and manage user identities in a structured way.
