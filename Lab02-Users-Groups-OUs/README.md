@@ -32,3 +32,5 @@ As the IT administrator, I need to create Organizational Units for different dep
 - Active Directory Users and Computers
 - Active Directory Domain Services (AD DS)
 - Server Manager
+
+## Administrative Workflow
