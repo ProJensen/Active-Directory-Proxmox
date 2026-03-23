@@ -58,7 +58,7 @@ This step helps organize domain objects in a structured and manageable way based
 
 ![Create OU](./screenshots/2_Create_OU.png)
 
-![Name OU](./screenshots/2_Name_OU.png?)
+![Name OU](./screenshots/2_Name_OU.png)
 
 ### Step 3: Create Security Groups
 - Right-click the appropriate OU
