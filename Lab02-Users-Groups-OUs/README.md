@@ -83,6 +83,8 @@ This step helps prepare the environment for access control and permission assign
 - Select **User must change password at next logon** if desired
 - Finish the wizard
 
+This step creates the domain user accounts required for centralized authentication.
+
 ![New User](./screenshots/4_New_User.png)
 
 ![User Bio](./screenshots/4_User_Bio.png)
