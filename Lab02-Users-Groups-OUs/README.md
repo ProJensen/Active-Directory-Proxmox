@@ -82,3 +82,9 @@ This step helps prepare the environment for access control and permission assign
 - Set an initial password
 - Select **User must change password at next logon** if desired
 - Finish the wizard
+
+![New User](./screenshots/4_New_User.png)
+
+![User Bio](./screenshots/4_User_Bio.png)
+
+![User Password Setting](./screenshots/4_User_PW_Setting.png)
