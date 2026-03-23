@@ -111,3 +111,22 @@ At the end of this lab:
 - Security groups are created for role-based access control
 - User accounts are created in the correct OUs
 - Users are assigned to the appropriate security groups
+
+## Common Issues and Troubleshooting
+
+### Issue 1: User account cannot be created
+Possible causes:
+- Required fields were not completed
+- The logon name is already in use
+- The account was created in the wrong location
+
+### Issue 2: Group membership changes do not appear correct
+Possible causes:
+- The wrong group was selected
+- The user was not added successfully
+- The changes were not applied before closing the window
+
+### Issue 3: Objects are created in the wrong OU
+Possible causes:
+- The wrong OU was selected before creating the object
+- The administrator created the object at the domain root instead of within the intended OU
