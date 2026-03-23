@@ -74,3 +74,11 @@ This step helps prepare the environment for access control and permission assign
 ![New Group](./screenshots/3_New_Group.png)
 
 ![Group Name](./screenshots/3_Group_Name.png)
+
+### Step 4: Create User Accounts
+- Right-click the appropriate OU
+- Select **New** > **User**
+- Enter the user’s first name, last name, and logon name
+- Set an initial password
+- Select **User must change password at next logon** if desired
+- Finish the wizard
