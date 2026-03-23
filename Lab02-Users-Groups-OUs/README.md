@@ -130,3 +130,8 @@ Possible causes:
 Possible causes:
 - The wrong OU was selected before creating the object
 - The administrator created the object at the domain root instead of within the intended OU
+
+## What I Learned
+I learned how Organizational Units, security groups, and user accounts work together to create a structured and manageable Active Directory environment.
+
+This lab helped me understand the importance of organizing domain objects properly before moving on to tasks such as domain join, permissions management, and Group Policy configuration.
