@@ -111,6 +111,7 @@ At the end of this lab:
 - Security groups are created for role-based access control
 - User accounts are created in the correct OUs
 - Users are assigned to the appropriate security groups
+- The Active Directory environment is organized for future domain administration tasks
 
 ## Common Issues and Troubleshooting
 
