@@ -92,7 +92,7 @@ This step creates the domain user accounts required for centralized authenticati
 ![User Password Setting](./screenshots/4_User_PW_Setting.png)
 
 ### Step 5: Add Users to Security Groups
-- Open the properties of a user account
+- Open the properties of a user account, or double-click the user account
 - Go to the **Member Of** tab
 - Add the user to the appropriate security group
 - Click **Apply** and **OK**
@@ -100,6 +100,10 @@ This step creates the domain user accounts required for centralized authenticati
 - Review the OU structure and confirm that users and groups were created in the correct locations
   
 This step helps organize access control through group membership instead of assigning permissions directly to individual users.
+
+![User Properties](./screenshots/5_User_Properties.png)
+
+![Select Group to User](./screenshots/5_Select_Group_To_User.png)
 
 ## Expected Outcome
 At the end of this lab:
