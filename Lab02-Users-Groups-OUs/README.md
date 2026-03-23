@@ -60,3 +60,13 @@ This step helps organize domain objects in a structured and manageable way based
 
 ![Name OU](./screenshots/2_Name_OU.png?)
 
+### Step 3: Create Security Groups
+- Right-click the appropriate OU
+- Select **New** > **Group**
+- Create security groups such as:
+  - **Sales-Users**
+  - **IT-Users**
+  - **HR-Users**
+- Keep the group type as **Security**
+
+This step helps prepare the environment for access control and permission assignment.
