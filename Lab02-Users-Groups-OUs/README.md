@@ -97,5 +97,6 @@ This step creates the domain user accounts required for centralized authenticati
 - Add the user to the appropriate security group
 - Click **Apply** and **OK**
 - Repeat for other users as needed
-
+- Review the OU structure and confirm that users and groups were created in the correct locations
+  
 This step helps organize access control through group membership instead of assigning permissions directly to individual users.
