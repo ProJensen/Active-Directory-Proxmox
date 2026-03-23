@@ -100,3 +100,10 @@ This step creates the domain user accounts required for centralized authenticati
 - Review the OU structure and confirm that users and groups were created in the correct locations
   
 This step helps organize access control through group membership instead of assigning permissions directly to individual users.
+
+## Expected Outcome
+At the end of this lab:
+- Organizational Units are created for administrative organization
+- Security groups are created for role-based access control
+- User accounts are created in the correct OUs
+- Users are assigned to the appropriate security groups
