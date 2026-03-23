@@ -55,3 +55,8 @@ This tool is used to manage domain objects such as users, groups, computers, and
   - **HR**
  
 This step helps organize domain objects in a structured and manageable way based on department.
+
+![Create OU](./screenshots/2_Create_OU.png)
+
+![Name OU](./screenshots/2_Name_OU.png?)
+
