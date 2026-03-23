@@ -70,3 +70,5 @@ This step helps organize domain objects in a structured and manageable way based
 - Keep the group type as **Security**
 
 This step helps prepare the environment for access control and permission assignment.
+
+![New Group](./screenshots/3_New_Group.png)
