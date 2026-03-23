@@ -73,4 +73,4 @@ This step helps prepare the environment for access control and permission assign
 
 ![New Group](./screenshots/3_New_Group.png)
 
-[Group Name](./screenshots/3_Group_Name.png)
+![Group Name](./screenshots/3_Group_Name.png)
