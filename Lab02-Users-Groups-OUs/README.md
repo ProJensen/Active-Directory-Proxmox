@@ -41,3 +41,5 @@ As the IT administrator, I need to create Organizational Units for different dep
 - Click **Active Directory Users and Computers**
 
 This tool is used to manage domain objects such as users, groups, computers, and Organizational Units.
+
+![Active Directory Users and Computers](./screenshots/1_AD_Users_Computers.png)
