@@ -72,3 +72,5 @@ This step helps organize domain objects in a structured and manageable way based
 This step helps prepare the environment for access control and permission assignment.
 
 ![New Group](./screenshots/3_New_Group.png)
+
+[Group Name](./screenshots/3_Group_Name.png)
