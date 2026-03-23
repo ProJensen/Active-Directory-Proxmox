@@ -22,7 +22,7 @@ As the IT administrator, I need to create Organizational Units for different dep
 
 ## Objectives
 - Create Organizational Units (OUs) for administrative organization
-- Create groups for access management
+- Create security groups for access management
 - Create domain user accounts
 - Assign users to the appropriate groups
 
