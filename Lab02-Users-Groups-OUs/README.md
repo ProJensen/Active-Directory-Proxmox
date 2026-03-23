@@ -43,3 +43,15 @@ As the IT administrator, I need to create Organizational Units for different dep
 This tool is used to manage domain objects such as users, groups, computers, and Organizational Units.
 
 ![Active Directory Users and Computers](./screenshots/1_AD_Users_Computers.png)
+
+### Step 2: Create Organizational Units
+- In **Active Directory Users and Computers**, expand the domain
+- Right-click the domain name
+- Select **New** > **Organizational Unit**
+- Create OUs such as:
+  - **Employees**
+  - **Sales**
+  - **IT**
+  - **HR**
+ 
+This step helps organize domain objects in a structured and manageable way based on department.
