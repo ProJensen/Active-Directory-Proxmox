@@ -115,3 +115,11 @@ At the end of this lab:
 - The Sales-Users group is granted appropriate access
 - An authorized domain user can access the shared folder from the client
 - Unauthorized users are denied access
+
+## Common Issues and Troubleshooting
+
+### Issue 1: The shared folder cannot be opened from the client
+Possible causes:
+- The folder path was entered incorrectly
+- File sharing is not enabled properly
+- Network communication between the client and server is not working
