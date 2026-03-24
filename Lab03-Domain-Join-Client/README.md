@@ -124,3 +124,11 @@ This step verifies that the client has joined the domain correctly and that cent
 ![PW Reset](./screenshots/6_PW_Reset.png)
 
 ![whoami](./screenshots/6_whoami.png)
+
+## Expected Outcome
+At the end of this lab:
+- The Windows 11 client is renamed to **CLIENT01**
+- The client network settings are configured correctly for domain communication
+- The client is joined to the **lab.local** domain
+- The client can authenticate using a domain user account
+- The client is ready for future Group Policy and shared resource testing
