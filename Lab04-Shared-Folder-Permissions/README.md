@@ -37,3 +37,9 @@ As the IT administrator, I need to create the shared folder, assign the correct 
 - Server Manager
 
 ## Administrative Workflow
+
+- Sign in to **DC01**
+- Open **File Explorer**
+- Create a folder such as **C:\SalesShare**
+
+This folder will be used as the shared resource for the Sales department.
