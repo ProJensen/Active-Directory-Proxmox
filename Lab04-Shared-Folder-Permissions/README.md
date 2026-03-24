@@ -27,3 +27,11 @@ As the IT administrator, I need to create the shared folder, assign the correct 
 - Assign access using Active Directory security groups
 - Test folder access from a domain-joined client
 
+## Tools and Services Used
+- Proxmox VE
+- Windows Server 2025
+- Windows 11 Pro
+- Active Directory Domain Services (AD DS)
+- Active Directory Users and Computers
+- File Explorer
+- Server Manager
