@@ -110,8 +110,13 @@ A restart is required for the domain join to take full effect.
 - Sign in using a domain account, such as:
   - **lab\username**
   - or **username@lab.local**
+- Change your password if this is the first time you signin as a Domain User
 - Confirm that the domain user can log in successfully
+- Run a basic command to verify the user join the domain successfully
+  ``` bash
+  whoami
+  ```
 
 This step verifies that the client has joined the domain correctly and that centralized authentication is working.
 
-![Domain SignIn](
+![Domain SignIn](./screenshots/6_Domain_SignIn.png)
