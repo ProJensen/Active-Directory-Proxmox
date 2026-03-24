@@ -79,3 +79,4 @@ This step controls what users are allowed to do inside the folder after they gai
 
 ![Edit Group](./screenshots/3_Edit_Group_In_Security.png)
 
+![Select Group](./screenshots/3_Select_Group.png)
