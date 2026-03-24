@@ -46,3 +46,13 @@ As the IT administrator, I need to create the shared folder, assign the correct 
 This folder will be used as the shared resource for the Sales department.
 
 ![Create Folder](./screenshots/1_Create_Folder.png)
+
+### Step 2: Configure Share Permissions
+- Right-click the folder and select **Properties**
+- Go to the **Sharing** tab
+- Select **Advanced Sharing**
+- Check **Share this folder**
+- Click **Permissions**
+- Remove unnecessary default entries if needed
+- Add the **Sales-Users** group
+- Assign the required share permissions, such as **Change** and **Read**
