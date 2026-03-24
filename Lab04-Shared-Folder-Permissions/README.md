@@ -34,6 +34,7 @@ As the IT administrator, I need to create the shared folder, assign the correct 
 - Active Directory Domain Services (AD DS)
 - Active Directory Users and Computers
 - File Explorer
+- File Sharing
 - Server Manager
 
 ## Administrative Workflow
@@ -91,7 +92,7 @@ This step controls what users are allowed to do inside the folder after they gai
 ```text
 \\DC01\SalesShare
 ```
-- Confirm that the authorized user can access the folder successfully
+- Confirm that the authorized Sales user can access and modify the folder contents successfully
 
 This step verifies that the shared folder is reachable from a domain-joined client.
 
