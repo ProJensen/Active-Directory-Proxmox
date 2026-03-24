@@ -61,3 +61,9 @@ This folder will be used as the shared resource for the Sales department.
 This step controls access to the folder over the network.
 
 ![Advanced Sharing](./screenshots/2_Advanced_Sharing.png)
+
+![Permissions](./screenshots/2_Permissions.png)
+
+![Select Group](./screenshots/2_Select_Group.png)
+
+![Assign Permissions](./screenshots/2_Assign_Permission.png)
