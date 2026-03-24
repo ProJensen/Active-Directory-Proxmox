@@ -89,3 +89,9 @@ This step helps confirm that the network and DNS settings are correct before att
 - Confirm the domain join request
 
 This step joins the client computer to the Active Directory domain so it can be centrally authenticated and managed.
+
+![System Properties](./screenshots/4_System_Properties.png)
+
+![Select Domain](./screenshots/4_Select_Domain.png)
+
+![Succeed Joining](./screenshots/4_Succeed.png)
