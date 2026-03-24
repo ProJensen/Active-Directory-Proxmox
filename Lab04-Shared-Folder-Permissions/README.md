@@ -66,7 +66,7 @@ This step controls access to the folder over the network.
 
 ![Select Group](./screenshots/2_Select_Group.png)
 
-![Assign Permissions](./screenshots/2_Assign_Permission.png)
+![Assign Permissions](./screenshots/2_Assign_Permission_2.png)
 
 ### Step 3: Configure NTFS Permissions
 - In the folder **Properties**, go to the **Security** tab
