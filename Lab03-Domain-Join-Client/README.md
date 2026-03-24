@@ -95,3 +95,11 @@ This step joins the client computer to the Active Directory domain so it can be 
 ![Select Domain](./screenshots/4_Select_Domain.png)
 
 ![Succeed Joining](./screenshots/4_Succeed.png)
+
+### Step 5: Restart the Client
+- Restart the Windows 11 client after the domain join completes
+- Wait for the system to boot back to the sign-in screen
+
+A restart is required for the domain join to take full effect.
+
+![Restart Client](./screenshots/5_Restart_Device.png)
