@@ -11,3 +11,6 @@
 - [What I Learned](#what-i-learned)
 
 ## Overview
+This lab documents the process of joining a Windows 11 client virtual machine to an Active Directory domain.
+
+The purpose of this project is to demonstrate the administrative workflow required to prepare a domain-joined client, configure its network settings correctly, and verify successful domain access in a Windows environment.
