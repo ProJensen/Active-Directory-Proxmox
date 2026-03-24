@@ -72,5 +72,7 @@ This step controls access to the folder over the network.
 - In the folder **Properties**, go to the **Security** tab
 - Select **Edit**
 - Add the **Sales-Users** group
-- Grant the appropriate NTFS permissions
-- Remove or limit unnecessary permissions if required
+- Confirm that the related permissions such as **Modify**, **Read & execute**, **List folder contents**, **Read**, and **Write** are also allowed
+- Click **Apply** and **OK** to save the settings
+
+This step controls what users are allowed to do inside the folder after they gain access to it over the network.
