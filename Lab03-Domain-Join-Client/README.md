@@ -96,7 +96,7 @@ This step joins the client computer to the Active Directory domain so it can be 
 
 ![Select Domain](./screenshots/4_Select_Domain.png)
 
-![Succeed Joining](./screenshots/4_Succeed.png)
+![Domain Join Successful](./screenshots/4_Succeed.png)
 
 ### Step 5: Restart the Client
 - Restart the Windows 11 client after the domain join completes
@@ -111,7 +111,7 @@ A restart is required for the domain join to take full effect.
 - Sign in using a domain account, such as:
   - **lab\username**
   - or **username@lab.local**
-- Change your password if this is the first time you signin as a Domain User
+- Change the password if this is the first time signing in as a domain user
 - Confirm that the domain user can log in successfully
 - Run a basic command to verify the user join the domain successfully
   ``` bash
