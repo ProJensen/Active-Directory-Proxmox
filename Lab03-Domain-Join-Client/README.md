@@ -113,3 +113,5 @@ A restart is required for the domain join to take full effect.
 - Confirm that the domain user can log in successfully
 
 This step verifies that the client has joined the domain correctly and that centralized authentication is working.
+
+![Domain SignIn](
