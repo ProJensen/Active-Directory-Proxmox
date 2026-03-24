@@ -120,3 +120,5 @@ A restart is required for the domain join to take full effect.
 This step verifies that the client has joined the domain correctly and that centralized authentication is working.
 
 ![Domain SignIn](./screenshots/6_Domain_SignIn.png)
+
+![PW Reset](./screenshots/6_PW_Reset.png)
