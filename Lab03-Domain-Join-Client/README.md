@@ -56,3 +56,7 @@ As the IT administrator, I need to prepare a Windows 11 client device and join i
   - Subnet mask: **255.255.255.0**
   - Default gateway: **10.10.10.1**
   - Preferred DNS server: **10.10.10.10**
+
+The DNS server must point to the Domain Controller so the client can resolve the Active Directory domain correctly.
+
+![Client IPv4 Settings](./screenshots/2_Client_IPv4_Settings.png)
