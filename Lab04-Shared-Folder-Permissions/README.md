@@ -82,3 +82,15 @@ This step controls what users are allowed to do inside the folder after they gai
 ![Select Group](./screenshots/3_Select_Group.png)
 
 ![Group Permissions](./screenshots/3_Group_Permissions.png)
+
+### Step 4: Access the Shared Folder from the Domain Client
+- Sign in to **CLIENT01** with a domain user account
+- Open **File Explorer**
+- In the address bar, enter the network path to the shared folder, such as:
+
+```text
+\\DC01\SalesShare
+```
+- Confirm that the authorized user can access the folder successfully
+
+This step verifies that the shared folder is reachable from a domain-joined client.
