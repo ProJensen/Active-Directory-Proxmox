@@ -59,3 +59,5 @@ This folder will be used as the shared resource for the Sales department.
 - Click **Apply** and **OK** to save the settings
 
 This step controls access to the folder over the network.
+
+![Advanced Sharing](./screenshots/2_Advanced_Sharing.png)
