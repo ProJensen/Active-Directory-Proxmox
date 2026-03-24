@@ -122,3 +122,5 @@ This step verifies that the client has joined the domain correctly and that cent
 ![Domain SignIn](./screenshots/6_Domain_SignIn.png)
 
 ![PW Reset](./screenshots/6_PW_Reset.png)
+
+![whoami](./screenshots/6_whoami.png)
