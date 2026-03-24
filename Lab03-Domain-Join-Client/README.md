@@ -132,3 +132,34 @@ At the end of this lab:
 - The client is joined to the **lab.local** domain
 - The client can authenticate using a domain user account
 - The client is ready for future Group Policy and shared resource testing
+
+## Common Issues and Troubleshooting
+
+### Issue 1: The client cannot join the domain
+Possible causes:
+- DNS server is not pointing to the Domain Controller
+- The domain name was entered incorrectly
+- The client cannot communicate with the Domain Controller
+
+### Issue 2: Domain credentials are rejected
+Possible causes:
+- Incorrect username or password
+- Wrong account format was used
+- The account does not have permission to join the domain
+
+### Issue 3: The client can ping the DC by IP but not by domain name
+Possible causes:
+- DNS server is set incorrectly
+- The client is using a public DNS server instead of the Domain Controller
+- DNS records are not resolving correctly
+
+### Issue 4: The domain user cannot sign in after restart
+Possible causes:
+- The domain join did not complete successfully
+- The wrong sign-in format was used
+- The client was not restarted after joining the domain
+
+## What I Learned
+I learned that domain join depends heavily on correct DNS and network configuration, not just the domain join wizard itself.
+
+This lab helped me understand how a Windows client communicates with a Domain Controller, how DNS supports domain authentication, and how client devices become part of a centrally managed Active Directory environment.
