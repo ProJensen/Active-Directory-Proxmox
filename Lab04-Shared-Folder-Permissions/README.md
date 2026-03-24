@@ -53,7 +53,7 @@ This folder will be used as the shared resource for the Sales department.
 - Select **Advanced Sharing**
 - Check **Share this folder**
 - Click **Permissions**
-- Remove unnecessary default entries if needed
+- Remove Permissions for **Everyone**
 - Add the **Sales-Users** group
 - Assign the required share permissions, such as **Change** and **Read**
 - Click **Apply** and **OK** to save the settings
