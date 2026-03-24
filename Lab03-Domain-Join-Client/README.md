@@ -43,3 +43,4 @@ As the IT administrator, I need to prepare a Windows 11 client device and join i
 - Rename the computer to **CLIENT01**
 - Restart the client when prompted
 
+![Rename Client](./screenshots/1_Rename_Client.png)
