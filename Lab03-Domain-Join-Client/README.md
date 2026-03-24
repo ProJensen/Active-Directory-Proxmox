@@ -33,6 +33,7 @@ As the IT administrator, I need to prepare a Windows 11 client device and join i
 - Windows Server 2025
 - Active Directory Domain Services (AD DS)
 - DNS
+- Command Prompt
 
 ## Administrative Workflow
 
