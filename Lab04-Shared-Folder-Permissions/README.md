@@ -106,3 +106,12 @@ This step verifies that the shared folder is reachable from a domain-joined clie
 This step confirms that folder access is being controlled through Active Directory group membership.
 
 ![Access Restricted](./screenshots/5_Restricted_Access.png)
+
+### Expected Outcome
+At the end of this lab:
+- A shared folder is created on the Windows Server
+- Share permissions are configured
+- NTFS permissions are configured
+- The Sales-Users group is granted appropriate access
+- An authorized domain user can access the shared folder from the client
+- Unauthorized users are denied access
