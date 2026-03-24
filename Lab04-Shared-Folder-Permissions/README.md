@@ -14,3 +14,8 @@
 This lab documents the process of creating a shared folder in a Windows domain environment and assigning both share permissions and NTFS permissions.
 
 The purpose of this project is to demonstrate how access to shared resources can be controlled through Active Directory security groups in a structured and manageable way.
+
+## Scenario
+A small business needs to provide a shared folder for the Sales department so employees can access common files from a domain-joined client device.
+
+As the IT administrator, I need to create the shared folder, assign the correct permissions, and verify that only authorized users can access it.
