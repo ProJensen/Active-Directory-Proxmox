@@ -38,6 +38,7 @@ As the IT administrator, I need to create the shared folder, assign the correct 
 
 ## Administrative Workflow
 
+### Step 1: Create the Shared Folder
 - Sign in to **DC01**
 - Open **File Explorer**
 - Create a folder such as **C:\SalesShare**
