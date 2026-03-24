@@ -42,3 +42,4 @@ As the IT administrator, I need to prepare a Windows 11 client device and join i
 - Select **Rename this PC**
 - Rename the computer to **CLIENT01**
 - Restart the client when prompted
+
