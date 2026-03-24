@@ -98,3 +98,11 @@ This step verifies that the shared folder is reachable from a domain-joined clie
 ![Sales User Sign in](./screenshots/4_Sales_User_SignIn.png)
 
 ![Access and Modify Folder](./screenshots/4_Access_Modify_Folder.png)
+
+### Step 5: Verify Group-Based Access Control
+- Test access using another user who is not a member of the group
+- Confirm that access is allowed only for the authorized user or group
+
+This step confirms that folder access is being controlled through Active Directory group membership.
+
+![Access Restricted](./screenshots/5_Restricted_Access.png)
