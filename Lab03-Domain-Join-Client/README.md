@@ -60,3 +60,20 @@ As the IT administrator, I need to prepare a Windows 11 client device and join i
 The DNS server must point to the Domain Controller so the client can resolve the Active Directory domain correctly.
 
 ![Client IPv4 Settings](./screenshots/2_Client_IPv4_Settings.png)
+
+### Step 3: Verify Connectivity to the Domain Controller
+- Open **Command Prompt**
+- Run a basic connectivity test to confirm the client can reach the Domain Controller
+  ``` bash
+  ping 10.10.10.10
+  ```
+  ```
+  ping lab.local
+  ```
+- Verify that the client can communicate with:
+  - **10.10.10.10**
+  - **lab.local**
+
+This step helps confirm that the network and DNS settings are correct before attempting the domain join.
+
+![Ping DC](./screenshots/3_Ping_DC.png)
