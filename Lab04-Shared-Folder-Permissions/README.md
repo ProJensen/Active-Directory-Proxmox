@@ -129,3 +129,9 @@ Possible causes:
 - Share permissions are too restrictive
 - NTFS permissions do not allow write access
 - The user is not a member of the correct security group
+
+### Issue 3: A user who should be denied access can still open the folder
+Possible causes:
+- The user belongs to another group with access
+- Default permissions were not removed or reviewed
+- NTFS permissions are broader than intended
