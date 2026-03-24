@@ -135,3 +135,8 @@ Possible causes:
 - The user belongs to another group with access
 - Default permissions were not removed or reviewed
 - NTFS permissions are broader than intended
+
+## What I Learned
+I learned that both share permissions and NTFS permissions must be reviewed together when controlling access to shared resources in a Windows domain environment.
+
+This lab helped me understand how Active Directory security groups can simplify permission management and how domain-joined clients access shared folders across the network.
