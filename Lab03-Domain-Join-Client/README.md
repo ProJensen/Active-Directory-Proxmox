@@ -27,3 +27,10 @@ As the IT administrator, I need to prepare a Windows 11 client device and join i
 - Join the client to the Active Directory domain
 - Verify successful domain authentication
 
+## Tools and Services Used
+- Proxmox VE
+- Windows 11 Pro
+- Windows Server 2025
+- Active Directory Domain Services (AD DS)
+- DNS
+
