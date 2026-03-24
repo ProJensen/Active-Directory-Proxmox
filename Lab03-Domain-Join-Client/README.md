@@ -44,3 +44,15 @@ As the IT administrator, I need to prepare a Windows 11 client device and join i
 - Restart the client when prompted
 
 ![Rename Client](./screenshots/1_Rename_Client.png)
+
+### Step 2: Configure the Client Network Settings
+- Open **Control Panel**
+- Go to **Network and Sharing Center**
+- Select **Change adapter settings**
+- Right-click the active Ethernet adapter and select **Properties**
+- Select **Internet Protocol Version 4 (TCP/IPv4)** and click **Properties**
+- Configure the client network settings:
+  - IP address: **10.10.10.20** or another available IP in the lab subnet
+  - Subnet mask: **255.255.255.0**
+  - Default gateway: **10.10.10.1**
+  - Preferred DNS server: **10.10.10.10**
