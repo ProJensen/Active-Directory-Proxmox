@@ -94,3 +94,7 @@ This step controls what users are allowed to do inside the folder after they gai
 - Confirm that the authorized user can access the folder successfully
 
 This step verifies that the shared folder is reachable from a domain-joined client.
+
+![Sales User Sign in](./screenshots/4_Sales_User_SignIn.png)
+
+![Access and Modify Folder](./screenshots/4_Access_Modify_Folder.png)
