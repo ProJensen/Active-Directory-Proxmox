@@ -123,3 +123,9 @@ Possible causes:
 - The folder path was entered incorrectly
 - File sharing is not enabled properly
 - Network communication between the client and server is not working
+
+### Issue 2: The user can access the folder but cannot modify files
+Possible causes:
+- Share permissions are too restrictive
+- NTFS permissions do not allow write access
+- The user is not a member of the correct security group
