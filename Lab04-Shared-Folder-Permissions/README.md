@@ -35,3 +35,5 @@ As the IT administrator, I need to create the shared folder, assign the correct 
 - Active Directory Users and Computers
 - File Explorer
 - Server Manager
+
+## Administrative Workflow
