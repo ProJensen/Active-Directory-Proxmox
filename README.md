@@ -43,7 +43,7 @@ It focuses on Windows Server administration, Active Directory, domain-joined cli
 | 01 | [Install AD DS](./Lab01-Install-AD-DS/) | Domain setup / AD DS / DNS | Completed |
 | 02 | [Create Users, Groups, and OUs](./Lab02-Users-Groups-OUs/) | Identity administration | Completed |
 | 03 | [Join Client to Domain](./Lab03-Domain-Join-Client/) | Domain join / client management | Completed |
-| 04 | [Shared Folder Permission](./Lab04-Shared-Folder-Permissions/) | File access / permissions | Planned |
+| 04 | [Shared Folder Permission](./Lab04-Shared-Folder-Permissions/) | File access / permissions | In Progress |
 | 05 | [Group Policy](./Lab05-GPO/) | Policy management / desktop configuration | Planned |
 
 ## Lab Environment
