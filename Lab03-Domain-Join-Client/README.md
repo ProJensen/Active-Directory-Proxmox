@@ -19,3 +19,11 @@ The purpose of this project is to demonstrate the administrative workflow requir
 A small business has already deployed its first Domain Controller and created initial users, groups, and Organizational Units in Active Directory.
 
 As the IT administrator, I need to prepare a Windows 11 client device and join it to the domain so that it can be centrally managed through Active Directory.
+
+## Objectives
+- Rename the Windows 11 client computer name
+- Configure the client network settings for domain communication
+- Set the client DNS server to the Domain Controller
+- Join the client to the Active Directory domain
+- Verify successful domain authentication
+
