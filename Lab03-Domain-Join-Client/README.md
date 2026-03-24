@@ -113,7 +113,7 @@ A restart is required for the domain join to take full effect.
   - or **username@lab.local**
 - Change the password if this is the first time signing in as a domain user
 - Confirm that the domain user can log in successfully
-- Run a basic command to verify the user join the domain successfully
+- Run a basic command to verify that the user has signed in successfully with a domain account
   ``` bash
   whoami
   ```
