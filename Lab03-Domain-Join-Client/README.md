@@ -103,3 +103,12 @@ This step joins the client computer to the Active Directory domain so it can be 
 A restart is required for the domain join to take full effect.
 
 ![Restart Client](./screenshots/5_Restart_Device.png)
+
+### Step 6: Sign In with a Domain User Account
+- At the sign-in screen, select **Other user** if needed
+- Sign in using a domain account, such as:
+  - **lab\username**
+  - or **username@lab.local**
+- Confirm that the domain user can log in successfully
+
+This step verifies that the client has joined the domain correctly and that centralized authentication is working.
