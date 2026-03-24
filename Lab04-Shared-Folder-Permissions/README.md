@@ -76,3 +76,6 @@ This step controls access to the folder over the network.
 - Click **Apply** and **OK** to save the settings
 
 This step controls what users are allowed to do inside the folder after they gain access to it over the network.
+
+![Edit Group](./screenshots/3_Edit_Group_In_Security.png)
+
