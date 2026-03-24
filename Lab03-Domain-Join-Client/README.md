@@ -67,6 +67,7 @@ The DNS server must point to the Domain Controller so the client can resolve the
   ``` bash
   ping 10.10.10.10
   ```
+  or
   ```
   ping lab.local
   ```
