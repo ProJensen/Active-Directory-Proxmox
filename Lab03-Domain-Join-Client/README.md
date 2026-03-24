@@ -77,3 +77,15 @@ The DNS server must point to the Domain Controller so the client can resolve the
 This step helps confirm that the network and DNS settings are correct before attempting the domain join.
 
 ![Ping DC](./screenshots/3_Ping_DC.png)
+
+### Step 4: Join the Client to the Domain
+- Open **Settings**
+- Go to **System** > **About**
+- Select **Domain or workgroup**
+- Click **Change**
+- Choose **Domain**
+- Enter the domain name: **lab.local**
+- When prompted, enter domain administrator credentials
+- Confirm the domain join request
+
+This step joins the client computer to the Active Directory domain so it can be centrally authenticated and managed.
