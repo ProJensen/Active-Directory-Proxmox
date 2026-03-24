@@ -56,3 +56,5 @@ This folder will be used as the shared resource for the Sales department.
 - Remove unnecessary default entries if needed
 - Add the **Sales-Users** group
 - Assign the required share permissions, such as **Change** and **Read**
+
+This step controls access to the folder over the network.
