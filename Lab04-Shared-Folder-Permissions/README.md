@@ -43,3 +43,5 @@ As the IT administrator, I need to create the shared folder, assign the correct 
 - Create a folder such as **C:\SalesShare**
 
 This folder will be used as the shared resource for the Sales department.
+
+![Create Folder](./screenshots/1_Create_Folder.png)
