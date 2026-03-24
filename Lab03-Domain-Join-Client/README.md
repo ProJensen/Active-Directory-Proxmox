@@ -34,3 +34,11 @@ As the IT administrator, I need to prepare a Windows 11 client device and join i
 - Active Directory Domain Services (AD DS)
 - DNS
 
+## Administrative Workflow
+
+### Step 1: Rename the Client Computer
+- Open **Settings**
+- Go to **System** > **About**
+- Select **Rename this PC**
+- Rename the computer to **CLIENT01**
+- Restart the client when prompted
