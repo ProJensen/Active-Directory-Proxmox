@@ -113,4 +113,23 @@ At the end of this lab:
 - The Sales shared folder is mapped automatically for the intended user
 - The mapped drive appears on the domain-joined client
 - The user can access the shared folder using the mapped drive instead of manually entering the UNC path
-- The environment demonstrates a practical use of Group Policy Preferences
+
+## Common Issues and Troubleshooting
+
+### Issue 1: The mapped drive does not appear on the client
+Possible causes:
+- The GPO is not linked to the correct OU
+- The user is not located in the expected OU
+- Group Policy has not refreshed yet
+
+### Issue 2: The mapped drive appears but cannot be opened
+Possible causes:
+- The shared folder permissions are incorrect
+- NTFS permissions do not allow access
+- The network path was entered incorrectly in the GPO
+
+### Issue 3: The policy does not apply to the intended user
+Possible causes:
+- The GPO is linked to the wrong OU
+- The user account is stored in a different OU
+- The client has not received the updated Group Policy settings
