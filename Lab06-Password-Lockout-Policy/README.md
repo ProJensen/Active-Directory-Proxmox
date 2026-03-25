@@ -52,3 +52,17 @@ As the IT administrator, I need to configure a password policy and account locko
 The Default Domain Policy is commonly used to configure domain-wide password and account lockout settings.
 
 ![Default Domain Policy](./screenshots/2_Default_Domain_Policy.png)
+
+### Step 3: Configure Password Policy Settings
+- In the Group Policy Management Editor, go to:
+  - **Computer Configuration**
+  - **Policies**
+  - **Windows Settings**
+  - **Security Settings**
+  - **Account Policies**
+  - **Password Policy**
+- Configure settings such as:
+  - **Minimum password length:** `8`
+  - **Password must meet complexity requirements:** `Enabled`
+ 
+  This step helps enforce stronger password standards for domain user accounts.
