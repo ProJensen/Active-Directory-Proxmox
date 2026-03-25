@@ -50,3 +50,5 @@ As the IT administrator, I need to configure a password policy and account locko
 - Right-click the policy and select **Edit**
 
 The Default Domain Policy is commonly used to configure domain-wide password and account lockout settings.
+
+![Default Domain Policy](./screenshots/2_Default_Domain_Policy.png)
