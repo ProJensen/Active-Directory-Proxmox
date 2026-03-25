@@ -94,3 +94,5 @@ gpupdate /force
 - Wait for Group Policy to refresh
 
 This step forces the client to pull the latest policy settings without waiting for the normal refresh interval.
+
+![gpupdate](./screenshots/4_gpupdate.png)
