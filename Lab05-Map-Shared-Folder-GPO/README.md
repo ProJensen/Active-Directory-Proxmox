@@ -1,4 +1,4 @@
-Lab05-Map-Shared-Folder-GPO
+# Lab 05 - Map Shared Folder with Group Policy
 
 ## Table of Contents
 - [Overview](#overview)
