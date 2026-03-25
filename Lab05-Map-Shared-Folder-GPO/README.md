@@ -46,3 +46,15 @@ As the IT administrator, I need to create and apply a Group Policy Object (GPO) 
 This tool is used to create, edit, and link Group Policy Objects in the Active Directory environment.
 
 ![Group Policy Management](./screenshots/1_Group_Policy_Management.png)
+
+### Step 2: Create a New Group Policy Object
+- In **Group Policy Management**, expand the domain
+- Right-click the appropriate OU or the **Group Policy Objects** container
+- Select **Create a GPO in this domain, and Link it here** or create the GPO first and link it later
+- Name the policy something clear, such as **Map Sales Drive**
+
+This step creates the Group Policy Object that will be used for drive mapping.
+
+![Create GPO](./screenshots/2_Create_GPO.png)
+
+![Name GPO](./screenshots/2_Name_GPO.png)
