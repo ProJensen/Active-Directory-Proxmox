@@ -47,11 +47,11 @@ This tool is used to create, edit, and link Group Policy Objects in the Active D
 
 ![Group Policy Management](./screenshots/1_Group_Policy_Management.png)
 
-### Step 2: Create a New Group Policy Object
-- In **Group Policy Management**, expand the domain
-- Right-click the appropriate OU or the **Group Policy Objects** container
-- Select **Create a GPO in this domain, and Link it here** or create the GPO first and link it later
-- Name the policy something clear, such as **Map Sales Drive**
+### Step 2: Create and Link a New Group Policy Object
+- In **Group Policy Management**, locate the **Sales** OU
+- Right-click the OU and select **Create a GPO in this domain, and Link it here**
+- Name the policy **Map Sales Drive**
+- Confirm that the GPO is linked and enabled for the Sales OU
 
 This step creates the Group Policy Object that will be used for drive mapping.
 
