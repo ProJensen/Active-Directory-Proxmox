@@ -133,3 +133,8 @@ Possible causes:
 - The GPO is linked to the wrong OU
 - The user account is stored in a different OU
 - The client has not received the updated Group Policy settings
+
+## What I Learned
+I learned how Group Policy Preferences can be used to simplify user access to shared resources in a Windows domain environment.
+
+This lab helped me understand how drive mapping can be deployed centrally through Group Policy, reducing manual configuration on client devices and making shared folder access more consistent for domain users.
