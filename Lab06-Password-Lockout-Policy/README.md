@@ -90,3 +90,13 @@ This step helps protect accounts against repeated failed sign-in attempts.
 ![Allow Administrator Account Lockout](./screenshots/4_Allow_Administrator_Account_Lockout.png)
 
 ![Reset Account Lockout Counter](./screenshots/4_Reset_Account_Lockout_Counter.png)
+
+### Step 5: Update Group Policy
+- Open **Command Prompt** on **DC01**
+- Run the following command:
+
+```bash
+gpupdate /force
+```
+
+- Allow the policy update to complete
