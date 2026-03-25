@@ -27,3 +27,12 @@ As the IT administrator, I need to configure a password policy and account locko
 - Apply the updated policy settings
 - Verify that the policy affects domain user accounts
 
+## Tools and Services Used
+- Windows Server 2025
+- Windows 11 Pro
+- Active Directory Domain Services (AD DS)
+- Group Policy Management
+- Command Prompt
+- Server Manager
+- Proxmox VE
+
