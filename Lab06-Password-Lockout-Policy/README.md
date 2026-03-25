@@ -83,13 +83,7 @@ This step helps protect accounts against repeated failed sign-in attempts.
 
 ![Account Lockout Policy](./screenshots/4_Account_Lockout_Policy.png)
 
-![Account Lockout Duration](./screenshots/4_Account_Lockout_Duration.png)
-
-![Account Lockout Threshold](./screenshots/4_Account_Lockout_threshold.png)
-
-![Allow Administrator Account Lockout](./screenshots/4_Allow_Administrator_Account_Lockout.png)
-
-![Reset Account Lockout Counter](./screenshots/4_Reset_Account_Lockout_Counter.png)
+![Account Lock Out Policy After](./screenshots/4_Account_Lockout_Policy_After.png)
 
 ### Step 5: Update Group Policy
 - Open **Command Prompt** on **DC01**
@@ -102,3 +96,5 @@ gpupdate /force
 - Allow the policy update to complete
 
 This step forces the updated domain policy settings to refresh without waiting for the normal background update interval.
+
+![gpupdate](./screenshots/5_gpupdate.png)
