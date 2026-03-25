@@ -53,11 +53,13 @@ This tool is used to create, edit, and link Group Policy Objects in the Active D
 - Name the policy **Map Sales Drive**
 - Confirm that the GPO is linked and enabled for the Sales OU
 
-This step creates the Group Policy Object that will be used for drive mapping.
+This step creates the Group Policy Object and links it to the correct OU so that it applies to the intended users.
 
 ![Create GPO](./screenshots/2_Create_GPO.png)
 
 ![Name GPO](./screenshots/2_Name_GPO.png)
+
+![Create and Link GPO](./screenshots/2_Create_&_Link_GPO.png)
 
 ### Step 3: Edit the GPO to Map the Shared Folder
 - Right-click the new GPO and select **Edit**
@@ -76,3 +78,7 @@ This step creates the Group Policy Object that will be used for drive mapping.
 - Click **Apply** and **OK** to save the settings
 
 This step configures the GPO to automatically map the shared folder as a network drive for targeted users.
+
+![New Mapped Drive](./screenshots/3_New_Mapped_Drive.png)
+
+![New Drive Properties](./screenshots/3_New_Mapped_Drive.png)
