@@ -96,3 +96,11 @@ gpupdate /force
 This step forces the client to pull the latest policy settings without waiting for the normal refresh interval.
 
 ![gpupdate](./screenshots/4_gpupdate.png)
+
+### Step 5: Verify the Mapped Drive
+- Open File Explorer on CLIENT01
+- Check **This PC**
+- Confirm that the mapped drive appears with the expected label and drive letter
+- Open the drive and verify that it points to the correct shared folder
+
+This step confirms that the Group Policy mapping was applied successfully to the client.
