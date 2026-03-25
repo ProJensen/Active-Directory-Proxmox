@@ -44,3 +44,5 @@ As the IT administrator, I need to create and apply a Group Policy Object (GPO) 
 - Click **Group Policy Management**
 
 This tool is used to create, edit, and link Group Policy Objects in the Active Directory environment.
+
+![Group Policy Management](./screenshots/1_Group_Policy_Management.png)
