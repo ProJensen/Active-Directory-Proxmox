@@ -82,3 +82,15 @@ This step configures the GPO to automatically map the shared folder as a network
 ![New Mapped Drive](./screenshots/3_New_Mapped_Drive.png)
 
 ![New Drive Properties](./screenshots/3_New_Drive_Properties.png)
+
+### Step 4: Update Group Policy on the Domain Client
+- Sign in to **CLIENT01** using the intended domain user
+- Open **Command Prompt**
+- Run the following command:
+
+```bash
+gpupdate /force
+```
+- Wait for Group Policy to refresh
+
+This step forces the client to pull the latest policy settings without waiting for the normal refresh interval.
