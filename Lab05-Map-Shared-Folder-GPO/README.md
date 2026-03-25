@@ -81,4 +81,4 @@ This step configures the GPO to automatically map the shared folder as a network
 
 ![New Mapped Drive](./screenshots/3_New_Mapped_Drive.png)
 
-![New Drive Properties](./screenshots/3_New_Mapped_Drive.png)
+![New Drive Properties](./screenshots/3_New_Drive_Properties.png)
