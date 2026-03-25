@@ -27,3 +27,10 @@ As the IT administrator, I need to create and apply a Group Policy Object (GPO) 
 - Link the policy to the correct Organizational Unit (OU)
 - Verify that the mapped drive appears for the intended domain user
 
+## Tools and Services Used
+- Windows Server 2025
+- Windows 11 Pro
+- Active Directory Domain Services (AD DS)
+- Group Policy Management
+- File Explorer
+- Proxmox VE
