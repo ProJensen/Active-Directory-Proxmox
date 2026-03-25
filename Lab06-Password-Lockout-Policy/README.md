@@ -43,3 +43,10 @@ As the IT administrator, I need to configure a password policy and account locko
 - Open **Server Manager**
 - Select **Tools**
 - Click **Group Policy Management**
+
+### Step 2: Edit the Default Domain Policy
+- In **Group Policy Management**, expand the domain
+- Locate **Default Domain Policy**
+- Right-click the policy and select **Edit**
+
+The Default Domain Policy is commonly used to configure domain-wide password and account lockout settings.
