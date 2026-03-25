@@ -1,4 +1,4 @@
-Lab05-Map-Shared-Folder-GPO/
+Lab05-Map-Shared-Folder-GPO
 
 ## Table of Contents
 - [Overview](#overview)
