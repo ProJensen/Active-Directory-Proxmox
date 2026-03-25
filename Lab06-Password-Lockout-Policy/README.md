@@ -100,3 +100,5 @@ gpupdate /force
 ```
 
 - Allow the policy update to complete
+
+This step forces the updated domain policy settings to refresh without waiting for the normal background update interval.
