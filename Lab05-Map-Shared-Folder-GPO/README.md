@@ -58,3 +58,19 @@ This step creates the Group Policy Object that will be used for drive mapping.
 ![Create GPO](./screenshots/2_Create_GPO.png)
 
 ![Name GPO](./screenshots/2_Name_GPO.png)
+
+### Step 3: Edit the GPO to Map the Shared Folder
+- Right-click the new GPO and select **Edit**
+- Go to:
+  - **User Configuration**
+  - **Preferences**
+  - **Windows Settings**
+  - **Drive Maps**
+- Right-click **Drive Maps**
+- Select **New** > **Mapped Drive**
+- Configure the drive mapping:
+  - **Action:** Create
+  - **Location:** `\\DC01\SalesShare`
+  - **Label as:** `SalesShare`
+  - **Drive Letter:** `S:` (or another available letter)
+- Click **Apply** and **OK** to save the settings
