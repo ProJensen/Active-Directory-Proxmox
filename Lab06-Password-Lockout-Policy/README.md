@@ -36,3 +36,10 @@ As the IT administrator, I need to configure a password policy and account locko
 - Server Manager
 - Proxmox VE
 
+## Administrative Workflow
+
+### Step 1: Open Group Policy Management
+- Sign in to **DC01**
+- Open **Server Manager**
+- Select **Tools**
+- Click **Group Policy Management**
