@@ -74,6 +74,9 @@ The Default Domain Policy is commonly used to configure domain-wide password and
 ### Step 4: Configure Account Lockout Policy Settings
 - In the same **Account Policies** section, open **Account Lockout Policy**
 - Configure:
-  - **Account lockout threshold:** `3 invalid logon attempts`
-  - **Reset account lockout counter after:** `15 minutes`
   - **Account lockout duration:** `15 minutes`
+  - **Account lockout threshold:** `3 invalid logon attempts`
+  - **Allow Administrative account lockout:** `Enabled`
+  - **Reset account lockout counter after:** `15 minutes`
+  
+This step helps protect accounts against repeated failed sign-in attempts.
