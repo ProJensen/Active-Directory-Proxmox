@@ -74,3 +74,5 @@ This step creates the Group Policy Object that will be used for drive mapping.
   - **Label as:** `SalesShare`
   - **Drive Letter:** `S:` (or another available letter)
 - Click **Apply** and **OK** to save the settings
+
+This step configures the GPO to automatically map the shared folder as a network drive for targeted users.
