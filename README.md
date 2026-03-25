@@ -44,7 +44,7 @@ It focuses on Windows Server administration, Active Directory, domain-joined cli
 | 02 | [Create Users, Groups, and OUs](./Lab02-Users-Groups-OUs/) | Identity administration | Completed |
 | 03 | [Join Client to Domain](./Lab03-Domain-Join-Client/) | Domain join / client management | Completed |
 | 04 | [Shared Folder Permission](./Lab04-Shared-Folder-Permissions/) | File access / permissions | Completed |
-| 05 | [Map Shared Folder with Group Policy](./Lab05-Map-Shared-Folder-GPO/) | User environment / drive mapping | In Progress |
+| 05 | [Map Shared Folder with Group Policy](./Lab05-Map-Shared-Folder-GPO/) | User environment / drive mapping | Completed |
 | 06 | [Password and Account Lockout Policy](./Lab06-Password-Lockout-Policy/) | Security policy / account protection | Planned |
 
 ## Lab Environment
