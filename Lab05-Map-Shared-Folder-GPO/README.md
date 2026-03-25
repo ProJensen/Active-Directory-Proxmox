@@ -84,7 +84,7 @@ This step configures the GPO to automatically map the shared folder as a network
 ![New Drive Properties](./screenshots/3_New_Drive_Properties.png)
 
 ### Step 4: Update Group Policy on the Domain Client
-- Sign in to **CLIENT01** using the intended domain user
+- Sign in to **CLIENT01** using the intended Sales domain user
 - Open **Command Prompt**
 - Run the following command:
 
