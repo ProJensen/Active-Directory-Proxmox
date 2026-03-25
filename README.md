@@ -90,7 +90,10 @@ Active-Directory-Proxmox/
 ├── Lab04-Shared-Folder-Permissions/
 │   ├── README.md
 │   └── screenshots/
-└── Lab05-GPO/
+└── Lab05-Map-Shared-Folder-GPO
+│   ├── README.md
+│   └── screenshots/
+└── Lab06-Password-Lockout-Policy
     ├── README.md
     └── screenshots/
 ```
@@ -100,7 +103,8 @@ Active-Directory-Proxmox/
 - [x] Complete Lab 02 - Create Users, Groups, and OUs
 - [x] Complete Lab 03 - Join Client to Domain
 - [x] Complete Lab 04 - Shared Folder Permissions
-- [ ] Complete Lab 05 - Group Policy
+- [ ] Complete Lab 05 - Map Shared Folder with Group Policy
+- [ ] Complete Lab 06 - Password and Account Lockout Policy
 
 ## Author
 **Jenhon Sze**
