@@ -34,3 +34,11 @@ As the IT administrator, I need to create and apply a Group Policy Object (GPO) 
 - Group Policy Management
 - File Explorer
 - Proxmox VE
+
+## Administrative Workflow
+
+### Step 1: Open Group Policy Management
+- Sign in to **DC01**
+- Open **Server Manager**
+- Select **Tools**
+- Click **Group Policy Management**
