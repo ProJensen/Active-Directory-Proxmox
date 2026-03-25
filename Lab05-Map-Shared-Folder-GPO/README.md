@@ -104,3 +104,5 @@ This step forces the client to pull the latest policy settings without waiting f
 - Open the drive and verify that it points to the correct shared folder
 
 This step confirms that the Group Policy mapping was applied successfully to the client.
+
+![S Drive](./screenshots/5_S_Drive.png)
