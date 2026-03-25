@@ -106,3 +106,11 @@ This step forces the client to pull the latest policy settings without waiting f
 This step confirms that the Group Policy mapping was applied successfully to the client.
 
 ![S Drive](./screenshots/5_S_Drive.png)
+
+## Expected Outcome
+At the end of this lab:
+- A new Group Policy Object is created for drive mapping
+- The Sales shared folder is mapped automatically for the intended user
+- The mapped drive appears on the domain-joined client
+- The user can access the shared folder using the mapped drive instead of manually entering the UNC path
+- The environment demonstrates a practical use of Group Policy Preferences
