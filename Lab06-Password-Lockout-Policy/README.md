@@ -66,3 +66,7 @@ The Default Domain Policy is commonly used to configure domain-wide password and
   - **Password must meet complexity requirements:** `Enabled`
  
   This step helps enforce stronger password standards for domain user accounts.
+
+![Password Policy](./screenshots/3_PW_Policy.png)
+
+![Minimum Password Length](./screenshots/3_Minimum_PW_Length.png)
