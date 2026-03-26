@@ -114,3 +114,11 @@ This step helps verify that the account lockout policy is working as intended fr
 ![Account Locked](./screenshots/6_Account_Locked.png)
 
 ### Step 7: Reset the User Password and Unlock the Account
+- Sign in to **DC01**
+- Open **Server Manager**
+- Select **Tools**
+- Click **Active Directory Users and Computers**
+- Locate the locked test user account
+- Right-click the user and select **Reset Password**
+- Enter a new password and confirm it
+- 
