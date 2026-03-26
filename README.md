@@ -46,7 +46,7 @@ It focuses on Windows Server administration, Active Directory, domain-joined cli
 | 04 | [Shared Folder Permission](./Lab04-Shared-Folder-Permissions/) | File access / permissions | Completed |
 | 05 | [Map Shared Folder with Group Policy](./Lab05-Map-Shared-Folder-GPO/) | User environment / drive mapping | Completed |
 | 06 | [Password and Account Lockout Policy](./Lab06-Password-Lockout-Policy/) | Security policy / account protection | Completed |
-| 07 | [Review Failed Sign-In Events](./Lab07-Failed-SignIn-Events/) | Log review / security monitoring | Planned |
+| 07 | [Review Failed Sign-In Events](./Lab07-Failed-SignIn-Events/) | Log review / security monitoring | In Progress |
 | 08 | [Configure Remote Desktop Access](./Lab08-Remote-Desktop-Access/) | Remote access / user access control | Planned |
 | 09 | [Delegate Limited Administrative Access](./Lab09-Delegated-Admin-Control/) | Delegation / limited administration | Planned |
 
