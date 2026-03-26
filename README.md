@@ -97,6 +97,15 @@ Active-Directory-Proxmox/
 │   ├── README.md
 │   └── screenshots/
 └── Lab06-Password-Lockout-Policy
+│   ├── README.md
+│   └── screenshots/
+├── Lab07-Failed-SignIn-Events/
+│   ├── README.md
+│   └── screenshots/
+├── Lab08-Remote-Desktop-Access/
+│   ├── README.md
+│   └── screenshots/
+└── Lab09-Delegated-Admin-Control/
     ├── README.md
     └── screenshots/
 ```
