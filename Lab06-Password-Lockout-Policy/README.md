@@ -130,3 +130,13 @@ This step demonstrates how an administrator can recover a locked user account an
 ![Reset Password](./screenshots/7_Reset_PW.png)
 
 ![Enter New Password](./screenshots/7_Enter_New_PW.png)
+
+## Expected Outcome
+At the end of this lab:
+- A password policy is configured for the domain
+- An account lockout policy is configured for the domain
+- The Default Domain Policy is updated successfully
+- Domain user accounts are affected by the new policy settings
+- A test user account can be locked after repeated failed sign-in attempts
+- A locked account can be recovered through administrative action
+- The environment demonstrates a practical use of domain-level security policy configuration
