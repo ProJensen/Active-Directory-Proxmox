@@ -14,3 +14,8 @@
 This lab documents the process of investigating suspicious sign-in activity in a Windows domain environment using Event Viewer.
 
 The purpose of this project is to demonstrate how an administrator can review security logs, identify failed sign-in attempts and account lockout events, and determine whether follow-up action is needed to help protect a user account.
+
+## Scenario
+A small business notices suspicious sign-in activity involving a domain user account, such as repeated failed sign-in attempts and possible account lockout behavior.
+
+As the IT administrator, I need to use Event Viewer to review the security logs, identify the relevant sign-in events, and determine whether any follow-up action is needed to protect the account, such as resetting the password, unlocking the account, or requiring the user to change the password at next sign-in.
