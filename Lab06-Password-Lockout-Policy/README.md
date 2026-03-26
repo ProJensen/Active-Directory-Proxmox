@@ -121,4 +121,6 @@ This step helps verify that the account lockout policy is working as intended fr
 - Locate the locked test user account
 - Right-click the user and select **Reset Password**
 - Enter a new password and confirm it
-- 
+- Check **User must change password at next logon**
+- Check **Unlock the user's account**
+- Apply the changes and test sign-in again on the client
