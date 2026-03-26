@@ -107,6 +107,8 @@ This step forces the updated domain policy settings to refresh without waiting f
 
 This step helps verify that the account lockout policy is working as intended from the client side.
 
+> Note: If the account is locked, the user has two options. The first option is to wait for the configured lockout duration to expire and then try signing in again with the correct password. The second option is to contact an administrator, who can manually unlock the account in Active Directory Users and Computers.
+
 ![Invalid Credentials](./screenshots/6_Invalid_Credentials.png)
 
 ![Account Locked](./screenshots/6_Account_Locked.png)
