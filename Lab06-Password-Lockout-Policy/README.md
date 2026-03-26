@@ -113,3 +113,4 @@ This step helps verify that the account lockout policy is working as intended fr
 
 ![Account Locked](./screenshots/6_Account_Locked.png)
 
+### Step 7: Reset the User Password and Unlock the Account
