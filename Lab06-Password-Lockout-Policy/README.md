@@ -154,3 +154,18 @@ Possible causes:
 - The policy was not applied successfully
 - The failed sign-in attempts did not target a domain account
 - The threshold value was not configured correctly
+
+### Issue 3: Settings were configured in the wrong GPO
+Possible causes:
+- A different GPO was edited instead of the Default Domain Policy
+- The policy was linked incorrectly
+- The settings were changed in a GPO that does not control domain account policies
+
+### Issue 4: The user account is locked and cannot sign in
+Possible causes:
+- The user entered the wrong password too many times
+- The account lockout threshold was reached
+
+Possible solutions:
+- Wait for the configured lockout duration to expire and try again
+- Ask an administrator to reset the password or unlock the account in Active Directory Users and Computers
