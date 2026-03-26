@@ -104,4 +104,5 @@ This step forces the updated domain policy settings to refresh without waiting f
 - Use a domain user account
 - Attempt incorrect sign-ins to test account lockout behavior
 - Confirm that the account becomes locked after the configured number of failed attempts
-- Review password requirements when changing or resetting a password if needed
+
+This step helps verify that the account lockout policy is working as intended from the client side.
