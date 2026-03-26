@@ -169,3 +169,8 @@ Possible causes:
 Possible solutions:
 - Wait for the configured lockout duration to expire and try again
 - Ask an administrator to reset the password or unlock the account in Active Directory Users and Computers
+
+## What I Learned
+I learned that password policy and account lockout policy are important domain-level security controls in an Active Directory environment.
+
+This lab helped me understand how the Default Domain Policy is used to enforce account protection settings across domain users and how these settings can be validated and managed from both the client side and the administrator side.
