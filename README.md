@@ -33,7 +33,10 @@ It focuses on Windows Server administration, Active Directory, domain-joined cli
 - Domain Join Process
 - User, Group, and OU Management
 - Shared Folder and NTFS Permissions
-- Group Policy
+- Group Policy Configuraion
+- Event Viewer and Security Log Review
+- Remote Desktop Configuration
+- Delegated Administration
 - Proxmox Virtualization
 
 ## Lab Projects
