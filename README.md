@@ -45,7 +45,7 @@ It focuses on Windows Server administration, Active Directory, domain-joined cli
 | 03 | [Join Client to Domain](./Lab03-Domain-Join-Client/) | Domain join / client management | Completed |
 | 04 | [Shared Folder Permission](./Lab04-Shared-Folder-Permissions/) | File access / permissions | Completed |
 | 05 | [Map Shared Folder with Group Policy](./Lab05-Map-Shared-Folder-GPO/) | User environment / drive mapping | Completed |
-| 06 | [Password and Account Lockout Policy](./Lab06-Password-Lockout-Policy/) | Security policy / account protection | Planned |
+| 06 | [Password and Account Lockout Policy](./Lab06-Password-Lockout-Policy/) | Security policy / account protection | Completed |
 
 ## Lab Environment
 This portfolio is based on a simulated Active Directory lab environment built in Proxmox for learning and portfolio development purposes.
@@ -104,7 +104,7 @@ Active-Directory-Proxmox/
 - [x] Complete Lab 03 - Join Client to Domain
 - [x] Complete Lab 04 - Shared Folder Permissions
 - [x] Complete Lab 05 - Map Shared Folder with Group Policy
-- [ ] Complete Lab 06 - Password and Account Lockout Policy
+- [x] Complete Lab 06 - Password and Account Lockout Policy
 
 ## Author
 **Jenhon Sze**
