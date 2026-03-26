@@ -65,7 +65,7 @@ The Default Domain Policy is commonly used to configure domain-wide password and
   - **Minimum password length:** `8`
   - **Password must meet complexity requirements:** `Enabled`
  
-  This step helps enforce stronger password standards for domain user accounts.
+This step helps enforce stronger password standards for domain user accounts.
 
 ![Password Policy](./screenshots/3_PW_Policy.png)
 
