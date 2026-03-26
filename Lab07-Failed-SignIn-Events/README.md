@@ -9,3 +9,8 @@
 - [Expected Outcome](#expected-outcome)
 - [Common Issues and Troubleshooting](#common-issues-and-troubleshooting)
 - [What I Learned](#what-i-learned)
+
+## Overview
+This lab documents the process of reviewing failed sign-in and account lockout events in a Windows domain environment using Event Viewer.
+
+The purpose of this project is to demonstrate how an administrator can review security logs, identify failed sign-in attempts, and investigate account lockout activity as part of security monitoring and troubleshooting.
