@@ -98,3 +98,10 @@ gpupdate /force
 This step forces the updated domain policy settings to refresh without waiting for the normal background update interval.
 
 ![gpupdate](./screenshots/5_gpupdate.png)
+
+### Step 6: Verify the Policy from a Domain User Perspective
+- Sign in to CLIENT01
+- Use a domain user account
+- Attempt incorrect sign-ins to test account lockout behavior
+- Confirm that the account becomes locked after the configured number of failed attempts
+- Review password requirements when changing or resetting a password if needed
