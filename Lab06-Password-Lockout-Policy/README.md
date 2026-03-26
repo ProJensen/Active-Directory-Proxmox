@@ -106,3 +106,7 @@ This step forces the updated domain policy settings to refresh without waiting f
 - Confirm that the account becomes locked after the configured number of failed attempts
 
 This step helps verify that the account lockout policy is working as intended from the client side.
+
+![Invalid Credentials](./screenshots/6_Invalid_Credentials.png)
+
+![Account Locked](./screenshots/6_Account_Locked.png)
