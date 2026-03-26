@@ -73,7 +73,10 @@ The environment uses Proxmox for virtualization and OPNsense for internal lab ne
 - Managing users, groups, and organizational units in Active Directory
 - Joining a Windows client to the domain
 - Configuring shared folders and NTFS permissions
-- Applying Group Policy settings
+- Applying Group Policy for user environment and security settings
+- Reviewing failed sign-in activity and security logs in Event Viewer
+- Understanding remote access configuration in a domain environment
+- Practicing delegated administration for limited support tasks
 - Developing troubleshooting skills
 
 ## Repository Structure
