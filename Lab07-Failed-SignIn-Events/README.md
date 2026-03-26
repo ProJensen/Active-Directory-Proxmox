@@ -27,3 +27,12 @@ As the IT administrator, I need to use Event Viewer to review the security logs,
 - Review key event details such as username, time, and event description
 - Investigate suspicious account activity using recorded security events
 - Review possible follow-up actions such as password reset, account unlock, or requiring a password change
+
+## Tools and Services Used
+- Windows Server 2025
+- Active Directory Domain Services (AD DS)
+- Event Viewer
+- Security log
+- Active Directory Users and Computers
+- Server Manager
+- Proxmox VE
