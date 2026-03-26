@@ -140,3 +140,17 @@ At the end of this lab:
 - A test user account can be locked after repeated failed sign-in attempts
 - A locked account can be recovered through administrative action
 - The environment demonstrates a practical use of domain-level security policy configuration
+
+## Common Issues and Troubleshooting
+
+### Issue 1: Password policy changes do not appear to apply
+Possible causes:
+- Group Policy has not refreshed yet
+- The password change was tested before the policy update completed
+- The wrong Group Policy Object was edited
+
+### Issue 2: Account lockout does not occur as expected
+Possible causes:
+- The policy was not applied successfully
+- The failed sign-in attempts did not target a domain account
+- The threshold value was not configured correctly
