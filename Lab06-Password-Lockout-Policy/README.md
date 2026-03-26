@@ -124,3 +124,5 @@ This step helps verify that the account lockout policy is working as intended fr
 - Check **User must change password at next logon**
 - Check **Unlock the user's account**
 - Apply the changes and test sign-in again on the client
+
+This step demonstrates how an administrator can recover a locked user account and restore access after repeated failed sign-in attempts.
