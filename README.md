@@ -108,6 +108,9 @@ Active-Directory-Proxmox/
 - [x] Complete Lab 04 - Shared Folder Permissions
 - [x] Complete Lab 05 - Map Shared Folder with Group Policy
 - [x] Complete Lab 06 - Password and Account Lockout Policy
+- [ ] Complete Lab 07 - Review Failed Sign-In Events
+- [ ] Complete Lab 08 - Configure Remote Desktop Access
+- [ ] Complete Lab 09 - Delegate Limited Administrative Access
 
 ## Author
 **Jenhon Sze**
