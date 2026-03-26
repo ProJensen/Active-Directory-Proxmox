@@ -19,3 +19,11 @@ The purpose of this project is to demonstrate how an administrator can review se
 A small business notices suspicious sign-in activity involving a domain user account, such as repeated failed sign-in attempts and possible account lockout behavior.
 
 As the IT administrator, I need to use Event Viewer to review the security logs, identify the relevant sign-in events, and determine whether any follow-up action is needed to protect the account, such as resetting the password, unlocking the account, or requiring the user to change the password at next sign-in.
+
+## Objectives
+- Open and review the Security log in Event Viewer
+- Identify failed sign-in events
+- Identify account lockout events
+- Review key event details such as username, time, and event description
+- Investigate suspicious account activity using recorded security events
+- Review possible follow-up actions such as password reset, account unlock, or requiring a password change
