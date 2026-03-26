@@ -36,3 +36,5 @@ As the IT administrator, I need to use Event Viewer to review the security logs,
 - Active Directory Users and Computers
 - Server Manager
 - Proxmox VE
+
+## Administrative Workflow
