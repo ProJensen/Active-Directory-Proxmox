@@ -1,4 +1,4 @@
-# Lab 07 - Review Failed Sign-In Events
+# Lab 07 - Investigate Suspicious Sign-In Activity
 
 ## Table of Contents
 - [Overview](#overview)
