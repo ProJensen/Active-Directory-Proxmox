@@ -112,3 +112,4 @@ This step helps verify that the account lockout policy is working as intended fr
 ![Invalid Credentials](./screenshots/6_Invalid_Credentials.png)
 
 ![Account Locked](./screenshots/6_Account_Locked.png)
+
