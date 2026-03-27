@@ -38,3 +38,11 @@ As the IT administrator, I need to use Event Viewer to review the security logs,
 - Proxmox VE
 
 ## Administrative Workflow
+
+### Step 1: Open Event Viewer
+- Sign in to **DC01**
+- Open **Server Manager**
+- Select **Tools**
+- Click **Event Viewer**
+
+This tool is used to review Windows logs and investigate security-related events in the domain environment.
