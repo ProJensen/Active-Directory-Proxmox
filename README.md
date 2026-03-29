@@ -34,7 +34,6 @@ It focuses on Windows Server administration, Active Directory, domain-joined cli
 - User, Group, and OU Management
 - Shared Folder and NTFS Permissions
 - Group Policy Configuraion
-- Event Viewer and Security Log Review
 - Remote Desktop Configuration
 - Delegated Administration
 - Proxmox Virtualization
@@ -49,9 +48,8 @@ It focuses on Windows Server administration, Active Directory, domain-joined cli
 | 04 | [Shared Folder Permission](./Lab04-Shared-Folder-Permissions/) | File access / permissions | Completed |
 | 05 | [Map Shared Folder with Group Policy](./Lab05-Map-Shared-Folder-GPO/) | User environment / drive mapping | Completed |
 | 06 | [Password and Account Lockout Policy](./Lab06-Password-Lockout-Policy/) | Security policy / account protection | Completed |
-| 07 | [Investigate Suspicious Sign-In Activity](./Lab07-Failed-SignIn-Events/) | Security log review / account investigation | In Progress |
-| 08 | [Configure Remote Desktop Access](./Lab08-Remote-Desktop-Access/) | Remote access / user access control | Planned |
-| 09 | [Delegate Limited Administrative Access](./Lab09-Delegated-Admin-Control/) | Delegation / limited administration | Planned |
+| 07 | [Configure Remote Desktop Access](./Lab07-Remote-Desktop-Access/) | Remote access / user access control | In Progress |
+| 08 | [Delegate Limited Administrative Access](./Lab08-Delegated-Admin-Control/) | Delegation / limited administration | Planned |
 
 ## Lab Environment
 This portfolio is based on a simulated Active Directory lab environment built in Proxmox for learning and portfolio development purposes.
@@ -77,7 +75,6 @@ The environment uses Proxmox for virtualization and OPNsense for internal lab ne
 - Joining a Windows client to the domain
 - Configuring shared folders and NTFS permissions
 - Applying Group Policy for user environment and security settings
-- Reviewing failed sign-in activity and security logs in Event Viewer
 - Understanding remote access configuration in a domain environment
 - Practicing delegated administration for limited support tasks
 - Developing troubleshooting skills
@@ -105,13 +102,10 @@ Active-Directory-Proxmox/
 └── Lab06-Password-Lockout-Policy
 │   ├── README.md
 │   └── screenshots/
-├── Lab07-Failed-SignIn-Events/
+├── Lab07-Remote-Desktop-Access/
 │   ├── README.md
 │   └── screenshots/
-├── Lab08-Remote-Desktop-Access/
-│   ├── README.md
-│   └── screenshots/
-└── Lab09-Delegated-Admin-Control/
+└── Lab08-Delegated-Admin-Control/
     ├── README.md
     └── screenshots/
 ```
@@ -123,9 +117,8 @@ Active-Directory-Proxmox/
 - [x] Complete Lab 04 - Shared Folder Permissions
 - [x] Complete Lab 05 - Map Shared Folder with Group Policy
 - [x] Complete Lab 06 - Password and Account Lockout Policy
-- [ ] Complete Lab 07 - Review Failed Sign-In Events
-- [ ] Complete Lab 08 - Configure Remote Desktop Access
-- [ ] Complete Lab 09 - Delegate Limited Administrative Access
+- [ ] Complete Lab 07 - Configure Remote Desktop Access
+- [ ] Complete Lab 08 - Delegate Limited Administrative Access
 
 ## Author
 **Jenhon Sze**
