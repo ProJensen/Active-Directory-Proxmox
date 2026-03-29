@@ -34,3 +34,12 @@ As the IT administrator, I need to create a dedicated support account, assign it
 - Active Directory Domain Services (AD DS)
 - Server Manager
 - Proxmox VE
+
+## Administrative Workflow
+
+### Step 1: Open Active Directory Users and Computers
+- Sign in to **DC01**
+- Open **Server Manager**
+- Select **Tools**
+- Click **Active Directory Users and Computers**
+
