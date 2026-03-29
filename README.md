@@ -35,7 +35,7 @@ It focuses on Windows Server administration, Active Directory, domain-joined cli
 - Shared Folder and NTFS Permissions
 - Group Policy Configuraion
 - Remote Desktop Configuration
-- Delegated Administration
+- Least Privilege
 - Proxmox Virtualization
 
 ## Lab Projects
@@ -48,8 +48,8 @@ It focuses on Windows Server administration, Active Directory, domain-joined cli
 | 04 | [Shared Folder Permission](./Lab04-Shared-Folder-Permissions/) | File access / permissions | Completed |
 | 05 | [Map Shared Folder with Group Policy](./Lab05-Map-Shared-Folder-GPO/) | User environment / drive mapping | Completed |
 | 06 | [Password and Account Lockout Policy](./Lab06-Password-Lockout-Policy/) | Security policy / account protection | Completed |
-| 07 | [Configure Remote Desktop Access](./Lab07-Remote-Desktop-Access/) | Remote access / user access control | In Progress |
-| 08 | [Delegate Limited Administrative Access](./Lab08-Delegated-Admin-Control/) | Delegation / limited administration | Planned |
+| 07 | [Delegated Admin Access](./Lab07-Delegated-Admin-Access/) | Delegation / limited administration | Planned |
+| 08 | [Configure Remote Desktop Access](./Lab08-Remote-Desktop-Access/) | Remote access / user access control | Planned |
 
 ## Lab Environment
 This portfolio is based on a simulated Active Directory lab environment built in Proxmox for learning and portfolio development purposes.
@@ -102,10 +102,10 @@ Active-Directory-Proxmox/
 └── Lab06-Password-Lockout-Policy
 │   ├── README.md
 │   └── screenshots/
-├── Lab07-Remote-Desktop-Access/
+├── Lab07-Delegated-Admin-Access/
 │   ├── README.md
 │   └── screenshots/
-└── Lab08-Delegated-Admin-Control/
+└── Lab08-Remote-Desktop-Accessl/
     ├── README.md
     └── screenshots/
 ```
@@ -117,8 +117,8 @@ Active-Directory-Proxmox/
 - [x] Complete Lab 04 - Shared Folder Permissions
 - [x] Complete Lab 05 - Map Shared Folder with Group Policy
 - [x] Complete Lab 06 - Password and Account Lockout Policy
-- [ ] Complete Lab 07 - Configure Remote Desktop Access
-- [ ] Complete Lab 08 - Delegate Limited Administrative Access
+- [ ] Complete Lab 07 - Delegated Admin Access
+- [ ] Complete Lab 08 - Configure Remote Desktop Access
 
 ## Author
 **Jenhon Sze**
