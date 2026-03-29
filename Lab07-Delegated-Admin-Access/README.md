@@ -19,3 +19,11 @@ The purpose of this project is to demonstrate how limited administrative permiss
 A small business wants to allow junior IT staff to perform basic account support tasks in the Windows domain environment without giving them full administrative control over the domain.
 
 As the IT administrator, I need to create a dedicated support account, assign it to a delegated security group, and configure limited permissions so it can manage selected user account tasks in Active Directory.
+
+## Objectives
+- Create a dedicated support account for administrative tasks
+- Create a security group for delegated access
+- Add the support account to the delegated group
+- Delegate limited permissions to the target OU
+- Verify that the support account can perform the assigned tasks
+- Confirm that the support account does not have full Domain Admin rights
