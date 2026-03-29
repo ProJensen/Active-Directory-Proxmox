@@ -105,7 +105,7 @@ Active-Directory-Proxmox/
 ├── Lab07-Delegated-Admin-Access/
 │   ├── README.md
 │   └── screenshots/
-└── Lab08-Remote-Desktop-Accessl/
+└── Lab08-Remote-Desktop-Access/
     ├── README.md
     └── screenshots/
 ```
