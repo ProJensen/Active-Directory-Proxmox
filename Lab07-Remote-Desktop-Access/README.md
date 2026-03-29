@@ -11,8 +11,6 @@
 - [What I Learned](#what-i-learned)
 
 ## Overview
-This lab demonstrates how to enable and configure Remote Desktop access on a domain-joined Windows client in an Active Directory environment.
+This lab documents the process of configuring Remote Desktop access in an Active Directory domain environment.
 
-Remote Desktop is commonly used by IT administrators to remotely access workstations for support, troubleshooting, and administrative tasks. In this lab, I enabled Remote Desktop on a domain-joined client computer, allowed an authorized domain user to connect, and tested the connection from another machine in the lab.
-
-This lab helps build hands-on experience with a common remote support task in a Windows domain environment.
+The purpose of this project is to demonstrate how remote access can be enabled and managed for authorized users in a domain-joined environment.
