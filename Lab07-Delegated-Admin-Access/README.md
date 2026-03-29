@@ -27,3 +27,10 @@ As the IT administrator, I need to create a dedicated support account, assign it
 - Delegate limited permissions to the target OU
 - Verify that the support account can perform the assigned tasks
 - Confirm that the support account does not have full Domain Admin rights
+
+## Tools and Services Used
+- Windows Server 2025
+- Active Directory Users and Computers
+- Active Directory Domain Services (AD DS)
+- Server Manager
+- Proxmox VE
