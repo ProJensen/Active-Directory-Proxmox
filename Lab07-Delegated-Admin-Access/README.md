@@ -16,9 +16,9 @@ This lab documents the process of configuring delegated admin access in an Activ
 The purpose of this project is to demonstrate how limited administrative permissions can be assigned to a support account without granting full Domain Admin rights.
 
 ## Scenario
-A small business wants to allow junior IT staff to perform basic account support tasks in the Windows domain environment without giving them full administrative control over the domain.
+A small business wants junior IT staff to perform basic user support tasks for employees in different departments without giving them full Domain Admin rights.
 
-As the IT administrator, I need to create a dedicated support account, assign it to a delegated security group, and configure limited permissions so it can manage selected user account tasks in Active Directory.
+As the IT administrator, I need to create a dedicated support account in the IT OU, assign it to a delegated security group, and grant limited permissions over the HR and Sales OUs.
 
 ## Objectives
 - Create a dedicated support account for administrative tasks
