@@ -21,8 +21,8 @@ A small business wants junior IT staff to perform basic user support tasks for e
 As the IT administrator, I need to create a dedicated support account in the IT OU, assign it to a delegated security group, and grant limited permissions over the HR and Sales OUs.
 
 ## Objectives
-- Create a dedicated support account for administrative tasks
-- Create a security group for delegated access
+- Create a dedicated IT support account
+- Create a security group for delegated administration
 - Add the support account to the delegated group
 - Delegate limited permissions to the target OU
 - Verify that the support account can perform the assigned tasks
