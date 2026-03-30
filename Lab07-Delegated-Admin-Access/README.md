@@ -24,7 +24,7 @@ As the IT administrator, I need to create a dedicated support account in the IT 
 - Create a dedicated IT support account
 - Create a security group for delegated administration
 - Add the support account to the delegated group
-- Delegate limited permissions to the target OU
+- Delegate limited permissions to the target OUs
 - Verify that the support account can perform the assigned tasks
 - Confirm that the support account does not have full Domain Admin rights
 
