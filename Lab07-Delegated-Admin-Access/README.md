@@ -43,3 +43,12 @@ As the IT administrator, I need to create a dedicated support account, assign it
 - Select **Tools**
 - Click **Active Directory Users and Computers**
 
+### Step 2: Create a Security Group for Delegated Access
+- In **Active Directory Users and Computers**, locate the appropriate OU for administrative groups
+- Right-click the OU and select **New > Group**
+- Create a group named:
+  - **Delegated Admins**
+- Set:
+  - **Group scope:** `Global`
+  - **Group type:** `Security`
+- Click **OK**
