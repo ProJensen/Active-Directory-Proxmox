@@ -81,4 +81,6 @@ This creates a dedicated support account instead of using a highly privileged ac
   - **Delegated Admins**
 - Click **Apply** and **OK**
 
+This step adds the support account to the security group that will receive delegated permissions.
+
 ![Delegated Admins](./screenshots/4_Delegated_Admins.png)
