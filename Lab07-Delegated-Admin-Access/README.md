@@ -80,3 +80,5 @@ This creates a dedicated support account instead of using a highly privileged ac
 - Add the account to:
   - **Delegated Admins**
 - Click **Apply** and **OK**
+
+![Delegated Admins](./screenshots/4_Delegated_Admins.png)
