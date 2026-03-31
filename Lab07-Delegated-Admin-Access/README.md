@@ -67,3 +67,5 @@ This group will be used to assign limited administrative permissions in a more o
 - Set a password for the account
 - Configure the password options as needed
 - Complete the user creation process
+
+This creates a dedicated support account instead of using a highly privileged account for daily support tasks.
