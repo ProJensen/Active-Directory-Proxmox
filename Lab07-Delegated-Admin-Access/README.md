@@ -101,3 +101,7 @@ This step adds the support account to the security group that will receive deleg
 - Complete the wizard
 
 This step grants the delegated group limited user administration permissions over the HR OU without assigning full domain-wide administrative rights.
+
+![HR Delegate Control](./screenshots/5_HR_Delegate_Control.png)
+
+![Add Group](./screenshots/5_Add_Group.png)
