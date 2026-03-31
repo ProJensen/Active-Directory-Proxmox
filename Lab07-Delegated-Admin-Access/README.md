@@ -71,3 +71,12 @@ This group will be used to assign limited administrative permissions in a more o
 This creates a dedicated support account instead of using a highly privileged account for daily support tasks.
 
 ![New User](./screenshots/3_New_User.png)
+
+### Step 4: Add the Support User to the Delegated Group
+- Locate the **itsupport** account
+- Open **Properties**
+- Go to the **Member Of** tab
+- Click **Add**
+- Add the account to:
+  - **Delegated Admins**
+- Click **Apply** and **OK**
