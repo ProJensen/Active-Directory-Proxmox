@@ -107,3 +107,20 @@ This step grants the delegated group limited user administration permissions ove
 ![Add Group](./screenshots/5_Add_Group.png)
 
 ![Task to Delegate](./screenshots/5_Task_To_Delegate.png)
+
+### Step 6: Delegate Control on the Sales OU
+- In Active Directory Users and Computers, right-click the **Sales** OU
+- Select **Delegate Control**
+- Click **Next**
+- Click **Add**
+- Select:
+  - **Delegated Admins**
+- Click **OK**
+- Click **Next**
+- Select the following common tasks:
+  - **Reset user passwords and force password change at next logon**
+  - **Read all user information**
+  - **Create, delete, and manage user accounts**
+- Complete the wizard
+
+This step grants the delegated group limited user administration permissions over the Sales OU without assigning full domain-wide administrative rights.
