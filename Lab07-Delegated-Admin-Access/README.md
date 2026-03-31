@@ -105,3 +105,5 @@ This step grants the delegated group limited user administration permissions ove
 ![HR Delegate Control](./screenshots/5_HR_Delegate_Control.png)
 
 ![Add Group](./screenshots/5_Add_Group.png)
+
+![Task to Delegate](./screenshots/5_Task_To_Delegate.png)
