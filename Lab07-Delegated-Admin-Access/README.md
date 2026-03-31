@@ -84,3 +84,18 @@ This creates a dedicated support account instead of using a highly privileged ac
 This step adds the support account to the security group that will receive delegated permissions.
 
 ![Delegated Admins](./screenshots/4_Delegated_Admins.png)
+
+### Step 5: Delegate Control on the HR OU
+- In Active Directory Users and Computers, right-click the **HR** OU
+- Select **Delegate Control**
+- Click **Next**
+- Click **Add**
+- Select:
+  - **Delegated Admins**
+- Click **OK**
+- Click **Next**
+- Select the following common tasks:
+  - **Reset user passwords and force password change at next logon**
+  - **Read all user information**
+  - **Create, delete, and manage user accounts**
+- Complete the wizard
