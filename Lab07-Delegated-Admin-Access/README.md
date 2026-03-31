@@ -56,3 +56,14 @@ As the IT administrator, I need to create a dedicated support account in the IT 
 This group will be used to assign limited administrative permissions in a more organized way.
 
 ![New Group](./screenshots/7_New_Group.png)
+
+### Step 3: Create a Dedicated IT Support User in the IT OU
+- In the **IT** OU, right-click and select **New > User**
+- Create a support account
+- Example:
+  - **First name:** `IT`
+  - **Last name:** `Support`
+  - **User logon name:** `itsupport`
+- Set a password for the account
+- Configure the password options as needed
+- Complete the user creation process
