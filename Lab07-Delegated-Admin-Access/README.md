@@ -52,3 +52,5 @@ As the IT administrator, I need to create a dedicated support account in the IT 
   - **Group scope:** `Global`
   - **Group type:** `Security`
 - Click **OK**
+
+This group will be used to assign limited administrative permissions in a more organized way.
