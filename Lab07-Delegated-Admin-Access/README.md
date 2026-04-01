@@ -146,3 +146,5 @@ This step prepares ADMIN01 as a dedicated admin workstation for Active Directory
 - Open **Active Directory Users and Computers** from **Windows Tools** or by searching from the Start menu
 
 This step is used to verify that the delegated support account can access the AD management tools from ADMIN01.
+
+![Active Directory Users and Computers](./screenshots/8_Active_Directory_Users_And_Computers.png)
