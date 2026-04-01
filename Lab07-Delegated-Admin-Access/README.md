@@ -124,3 +124,14 @@ This step grants the delegated group limited user administration permissions ove
 - Complete the wizard
 
 This step grants the delegated group limited user administration permissions over the Sales OU without assigning full domain-wide administrative rights.
+
+### Step 7: Prepare ADMIN01 with RSAT
+- Create a new Windows 11 Pro virtual machine named **ADMIN01**
+- Join **ADMIN01** to the **lab.local** domain
+- Sign in to **ADMIN01** using an administrative account
+- Open **Settings > System > Optional features**
+- Click **View features**
+- Click **Available features**
+- Search for:
+  - **RSAT: Active Directory Domain Services and Lightweight Directory Services Tools**
+- Select the feature and install it
