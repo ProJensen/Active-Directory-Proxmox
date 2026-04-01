@@ -137,3 +137,5 @@ This step grants the delegated group limited user administration permissions ove
 - Select the feature and install it
 
 This step prepares ADMIN01 as a dedicated admin workstation for Active Directory management tasks.
+
+![RSAT Installation](./screenshots/7_RSAT_Installation.png)
