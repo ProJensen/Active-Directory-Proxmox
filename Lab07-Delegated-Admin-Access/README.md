@@ -139,3 +139,10 @@ This step grants the delegated group limited user administration permissions ove
 This step prepares ADMIN01 as a dedicated admin workstation for Active Directory management tasks.
 
 ![RSAT Installation](./screenshots/7_RSAT_Installation.png)
+
+### Step 8: Sign In with the IT Support Account
+- Sign out of the administrative account on **ADMIN01**
+- Sign in using the **IT Support** account
+- Open **Active Directory Users and Computers** from **Windows Tools** or by searching from the Start menu
+
+This step is used to verify that the delegated support account can access the AD management tools from ADMIN01.
