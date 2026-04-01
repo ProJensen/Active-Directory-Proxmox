@@ -135,3 +135,5 @@ This step grants the delegated group limited user administration permissions ove
 - Search for:
   - **RSAT: Active Directory Domain Services and Lightweight Directory Services Tools**
 - Select the feature and install it
+
+This step prepares ADMIN01 as a dedicated admin workstation for Active Directory management tasks.
