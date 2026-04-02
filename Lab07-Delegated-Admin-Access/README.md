@@ -164,3 +164,11 @@ This step confirms that the IT Support account can create a new user account and
 ![Create New User](./screenshots/9_Create_New_User_HR.png)
 
 ![Reset PW](./screenshots/9_Reset_PW_Sales.png)
+
+### Step 10: Confirm the Account Does Not Have Full Administrative Rights
+- Open the IT Support account properties
+- Review the Member Of tab
+- Confirm the account is not a member of:
+  - Domain Admins
+  - Enterprise Admins
+- Confirm the account only has the delegated permissions assigned through the target OUs
