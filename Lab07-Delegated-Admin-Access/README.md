@@ -158,3 +158,5 @@ This step is used to verify that the delegated support account can access the AD
 - Select a test user account
 - Right-click the user and choose **Reset Password**
 - Enter a new password
+
+This step confirms that the IT Support account can create a new user account and reset a user password in the delegated OUs.
