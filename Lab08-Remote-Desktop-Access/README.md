@@ -9,3 +9,8 @@
 - [Expected Outcome](#expected-outcome)
 - [Common Issues and Troubleshooting](#common-issues-and-troubleshooting)
 - [What I Learned](#what-i-learned)
+
+## Overview
+This lab documents the process of configuring Remote Desktop access in an Active Directory domain environment.
+
+The purpose of this project is to demonstrate how remote access can be enabled and managed for an authorized support account in a domain-joined environment.
