@@ -160,3 +160,7 @@ This step is used to verify that the delegated support account can access the AD
 - Enter a new password
 
 This step confirms that the IT Support account can create a new user account and reset a user password in the delegated OUs.
+
+![Create New User](./screenshots/9_Create_New_User_HR.png)
+
+![Reset PW](./screenshots/9_Reset_PW_Sales.png)
