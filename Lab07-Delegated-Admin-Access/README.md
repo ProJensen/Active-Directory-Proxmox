@@ -226,3 +226,8 @@ This lab demonstrates how delegated administration can be used to assign limited
 - Confirm the account is not a member of **Domain Admins**
 - Review the delegation settings on each OU
 - Remove unnecessary permissions or group memberships
+
+## What I Learned
+Through this lab, I learned how to configure delegated admin access in an Active Directory domain environment.
+
+I also learned how to assign limited administrative permissions to a support account, allowing it to create new user accounts and reset user passwords in specific OUs without granting full Domain Admin rights.
