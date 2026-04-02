@@ -49,7 +49,7 @@ It focuses on Windows Server administration, Active Directory, domain-joined cli
 | 05 | [Map Shared Folder with Group Policy](./Lab05-Map-Shared-Folder-GPO/) | User environment / drive mapping | Completed |
 | 06 | [Password and Account Lockout Policy](./Lab06-Password-Lockout-Policy/) | Security policy / account protection | Completed |
 | 07 | [Delegated Admin Access](./Lab07-Delegated-Admin-Access/) | Delegation / limited administration | Completed |
-| 08 | [Configure Remote Desktop Access](./Lab08-Remote-Desktop-Access/) | Remote access / user access control | In Progress |
+| 08 | [Configure Remote Assistance Access](./Lab08-Remote-Assistance-Access/) | Remote access / user access control | In Progress |
 
 ## Lab Environment
 This portfolio is based on a simulated Active Directory lab environment built in Proxmox for learning and portfolio development purposes.
@@ -105,7 +105,7 @@ Active-Directory-Proxmox/
 ├── Lab07-Delegated-Admin-Access/
 │   ├── README.md
 │   └── screenshots/
-└── Lab08-Remote-Desktop-Access/
+└── Lab08-Remote-Assistance-Access/
     ├── README.md
     └── screenshots/
 ```
@@ -118,7 +118,7 @@ Active-Directory-Proxmox/
 - [x] Complete Lab 05 - Map Shared Folder with Group Policy
 - [x] Complete Lab 06 - Password and Account Lockout Policy
 - [x] Complete Lab 07 - Delegated Admin Access
-- [ ] Complete Lab 08 - Configure Remote Desktop Access
+- [ ] Complete Lab 08 - Configure Remote Assistance Access
 
 ## Author
 **Jenhon Sze**
