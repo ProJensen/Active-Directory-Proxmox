@@ -9,3 +9,8 @@
 - [Expected Outcome](#expected-outcome)
 - [Common Issues and Troubleshooting](#common-issues-and-troubleshooting)
 - [What I Learned](#what-i-learned)
+
+## Overview
+This lab documents the process of configuring Remote Assistance by Group Policy in an Active Directory domain environment.
+
+The purpose of this project is to demonstrate how remote support access can be centrally configured for a delegated IT support account.
