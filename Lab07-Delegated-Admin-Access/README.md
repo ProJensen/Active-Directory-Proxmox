@@ -188,3 +188,5 @@ At the end of this lab:
 - The IT Support account does not have full Domain Admin rights
 
 This lab demonstrates how delegated administration can be used to assign limited support responsibilities in an Active Directory environment.
+
+## Common Issues and Troubleshooting
