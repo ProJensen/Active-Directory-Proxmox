@@ -176,3 +176,15 @@ This step confirms that the IT Support account can create a new user account and
 This step verifies that the support account can perform limited administrative tasks without having full domain-wide control.
 
 ![Confirm Power](./screenshots/10_Confirm_Power.png)
+
+## Expected Outcome
+At the end of this lab:
+- A dedicated IT Support account is created
+- A delegated security group is created and configured
+- The IT Support account is added to the delegated group
+- Limited administrative permissions are assigned to the HR and Sales OUs
+- The IT Support account can create a new user in the HR OU
+- The IT Support account can reset a user password in the Sales OU
+- The IT Support account does not have full Domain Admin rights
+
+This lab demonstrates how delegated administration can be used to assign limited support responsibilities in an Active Directory environment.
