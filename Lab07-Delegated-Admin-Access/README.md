@@ -191,7 +191,7 @@ This lab demonstrates how delegated administration can be used to assign limited
 
 ## Common Issues and Troubleshooting
 
-### Issue 1: The IT Support account cannot create a new user
+### Issue 1: The IT Support account cannot create a new user or reset a user password
 **Possible causes:**
 - The delegated permissions were not assigned correctly
 - The wrong OU was selected during delegation
@@ -202,3 +202,15 @@ This lab demonstrates how delegated administration can be used to assign limited
 - Confirm that the IT Support account is a member of the delegated security group
 - Sign out and sign back in to refresh group membership
 - Review the delegation settings in Active Directory Users and Computers
+
+### Issue 2: Active Directory Users and Computers is not available on ADMIN01
+**Possible causes:**
+- RSAT was not installed
+- The wrong RSAT feature was selected
+- The installation did not complete successfully
+
+**Troubleshooting steps:**
+- Open **Settings > System > Optional features**
+- Confirm that **RSAT: Active Directory Domain Services and Lightweight Directory Services Tools** is installed
+- Retry the installation using an administrative account if needed
+- Search for **Active Directory Users and Computers** from the Start menu or open it from **Windows Tools**
