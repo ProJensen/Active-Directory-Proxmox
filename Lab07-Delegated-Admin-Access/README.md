@@ -174,3 +174,5 @@ This step confirms that the IT Support account can create a new user account and
 - Confirm the account only has the delegated permissions assigned through the target OUs
 
 This step verifies that the support account can perform limited administrative tasks without having full domain-wide control.
+
+![Confirm Power](./screenshots/10_Confirm_Power.png)
