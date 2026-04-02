@@ -214,3 +214,15 @@ This lab demonstrates how delegated administration can be used to assign limited
 - Confirm that **RSAT: Active Directory Domain Services and Lightweight Directory Services Tools** is installed
 - Retry the installation using an administrative account if needed
 - Search for **Active Directory Users and Computers** from the Start menu or open it from **Windows Tools**
+
+### Issue 3: The IT Support account can access more than expected
+**Possible causes:**
+- The account was added to a higher-privilege group
+- Too many permissions were delegated
+- Delegation was applied to the wrong OU
+
+**Troubleshooting steps:**
+- Review the **Member Of** tab for the IT Support account
+- Confirm the account is not a member of **Domain Admins**
+- Review the delegation settings on each OU
+- Remove unnecessary permissions or group memberships
