@@ -14,3 +14,8 @@
 This lab documents the process of configuring Remote Desktop access in an Active Directory domain environment.
 
 The purpose of this project is to demonstrate how remote access can be enabled and managed for an authorized support account in a domain-joined environment.
+
+## Scenario
+A staff member is experiencing an issue on a domain-joined client computer and requires remote IT support.
+
+As the IT administrator, I need to enable Remote Desktop on the client device, configure the necessary access permissions, and verify that the delegated IT Support account can remotely connect from ADMIN01.
