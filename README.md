@@ -34,7 +34,7 @@ It focuses on Windows Server administration, Active Directory, domain-joined cli
 - User, Group, and OU Management
 - Shared Folder and NTFS Permissions
 - Group Policy Configuraion
-- Remote Desktop Configuration
+- Remote Assistance Configuration
 - Least Privilege
 - Proxmox Virtualization
 
