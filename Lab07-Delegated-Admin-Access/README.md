@@ -148,3 +148,13 @@ This step prepares ADMIN01 as a dedicated admin workstation for Active Directory
 This step is used to verify that the delegated support account can access the AD management tools from ADMIN01.
 
 ![Active Directory Users and Computers](./screenshots/8_Active_Directory_Users_And_Computers.png)
+
+### Step 9: Test the Delegated Permissions
+- In **Active Directory Users and Computers**, browse to the **HR** OU
+- Right-click inside the OU and select **New > User**
+- Create a new test user account
+- Complete the user creation process
+- Next, browse to the **Sales** OU
+- Select a test user account
+- Right-click the user and choose **Reset Password**
+- Enter a new password
