@@ -48,7 +48,7 @@ It focuses on Windows Server administration, Active Directory, domain-joined cli
 | 04 | [Shared Folder Permission](./Lab04-Shared-Folder-Permissions/) | File access / permissions | Completed |
 | 05 | [Map Shared Folder with Group Policy](./Lab05-Map-Shared-Folder-GPO/) | User environment / drive mapping | Completed |
 | 06 | [Password and Account Lockout Policy](./Lab06-Password-Lockout-Policy/) | Security policy / account protection | Completed |
-| 07 | [Delegated Admin Access](./Lab07-Delegated-Admin-Access/) | Delegation / limited administration | Planned |
+| 07 | [Delegated Admin Access](./Lab07-Delegated-Admin-Access/) | Delegation / limited administration | Completed |
 | 08 | [Configure Remote Desktop Access](./Lab08-Remote-Desktop-Access/) | Remote access / user access control | Planned |
 
 ## Lab Environment
@@ -117,7 +117,7 @@ Active-Directory-Proxmox/
 - [x] Complete Lab 04 - Shared Folder Permissions
 - [x] Complete Lab 05 - Map Shared Folder with Group Policy
 - [x] Complete Lab 06 - Password and Account Lockout Policy
-- [ ] Complete Lab 07 - Delegated Admin Access
+- [x] Complete Lab 07 - Delegated Admin Access
 - [ ] Complete Lab 08 - Configure Remote Desktop Access
 
 ## Author
