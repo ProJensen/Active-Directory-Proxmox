@@ -190,3 +190,15 @@ At the end of this lab:
 This lab demonstrates how delegated administration can be used to assign limited support responsibilities in an Active Directory environment.
 
 ## Common Issues and Troubleshooting
+
+### Issue 1: The IT Support account cannot create a new user
+**Possible causes:**
+- The delegated permissions were not assigned correctly
+- The wrong OU was selected during delegation
+- The IT Support account was not added to the delegated group
+
+**Troubleshooting steps:**
+- Verify that the delegation was applied to the correct OU
+- Confirm that the IT Support account is a member of the delegated security group
+- Sign out and sign back in to refresh group membership
+- Review the delegation settings in Active Directory Users and Computers
