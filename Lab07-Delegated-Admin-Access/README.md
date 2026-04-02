@@ -44,7 +44,7 @@ As the IT administrator, I need to create a dedicated support account in the IT 
 - Click **Active Directory Users and Computers**
 
 ### Step 2: Create a Security Group for Delegated Access
-- In **Active Directory Users and Computers**, locate the appropriate OU for administrative groups
+- In **Active Directory Users and Computers**, open the **IT** OU
 - Right-click the OU and select **New > Group**
 - Create a group named:
   - **Delegated Admins**
@@ -183,7 +183,7 @@ At the end of this lab:
 - A delegated security group is created and configured
 - The IT Support account is added to the delegated group
 - Limited administrative permissions are assigned to the HR and Sales OUs
-- The IT Support account can create a new user and reset a user passwprd in the HR OU
+- The IT Support account can create a new user and reset a user password in the HR OU
 - The IT Support account can create a new user and reset a user password in the Sales OU
 - The IT Support account does not have full Domain Admin rights
 
