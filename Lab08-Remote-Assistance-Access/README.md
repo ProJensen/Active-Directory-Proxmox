@@ -14,3 +14,8 @@
 This lab documents the process of configuring Remote Assistance by Group Policy in an Active Directory domain environment.
 
 The purpose of this project is to demonstrate how remote support access can be centrally configured for a delegated IT support account.
+
+## Scenario
+A company wants to allow the IT Support account to remotely assist users on domain-joined client computers.
+
+As the IT administrator, I need to use Group Policy to enable Offer Remote Assistance on the target client computer, assign the IT Support account as an allowed helper, and verify that remote assistance can be offered from ADMIN01 to CLIENT01.
