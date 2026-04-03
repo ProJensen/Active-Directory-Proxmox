@@ -37,3 +37,5 @@ As the IT administrator, I need to use Group Policy to enable Offer Remote Assis
 - Windows Remote Assistance
 - Windows Defender Firewall
 - Proxmox VE
+
+## Administrative Workflow
