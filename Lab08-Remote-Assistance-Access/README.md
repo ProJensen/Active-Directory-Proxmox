@@ -155,3 +155,5 @@ This step allows the target client computer to accept the Remote Assistance sess
 - Confirm that the IT Support account can control the desktop of **CLIENT01**
 
 This step verifies that the IT Support account can successfully view and control the client computer through Remote Assistance.
+
+![Request Control](./screenshots/9_Request_Control.png)
