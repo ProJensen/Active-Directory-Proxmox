@@ -33,7 +33,7 @@ It focuses on Windows Server administration, Active Directory, domain-joined cli
 - Domain Join Process
 - User, Group, and OU Management
 - Shared Folder and NTFS Permissions
-- Group Policy Configuraion
+- Group Policy Configuration
 - Remote Assistance Configuration
 - Least Privilege
 - Proxmox Virtualization
@@ -54,7 +54,7 @@ It focuses on Windows Server administration, Active Directory, domain-joined cli
 ## Lab Environment
 This portfolio is based on a simulated Active Directory lab environment built in Proxmox for learning and portfolio development purposes.
 
-The environment uses Proxmox for virtualization and OPNsense for internal lab network separation, with Windows Server and a Windows client used to practice common administration tasks in a Windows domain environment.
+The environment uses Proxmox for virtualization and OPNsense for internal lab network separation. Windows Server and Windows client systems are used to practice common administration tasks in a Windows domain environment.
 
 ## Tools and Technologies
 - Proxmox VE
@@ -96,10 +96,10 @@ Active-Directory-Proxmox/
 ├── Lab04-Shared-Folder-Permissions/
 │   ├── README.md
 │   └── screenshots/
-└── Lab05-Map-Shared-Folder-GPO
+├── Lab05-Map-Shared-Folder-GPO
 │   ├── README.md
 │   └── screenshots/
-└── Lab06-Password-Lockout-Policy
+├── Lab06-Password-Lockout-Policy
 │   ├── README.md
 │   └── screenshots/
 ├── Lab07-Delegated-Admin-Access/
@@ -114,7 +114,7 @@ Active-Directory-Proxmox/
 - [x] Complete Lab 01 - Install AD DS
 - [x] Complete Lab 02 - Create Users, Groups, and OUs
 - [x] Complete Lab 03 - Join Client to Domain
-- [x] Complete Lab 04 - Shared Folder Permissions
+- [x] Complete Lab 04 - Shared Folder Permission
 - [x] Complete Lab 05 - Map Shared Folder with Group Policy
 - [x] Complete Lab 06 - Password and Account Lockout Policy
 - [x] Complete Lab 07 - Delegated Admin Access
