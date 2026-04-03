@@ -172,3 +172,8 @@ At the end of this lab:
 - The IT Support account can successfully view and control CLIENT01 through Remote Assistance
 
 This lab demonstrates how Group Policy can be used to centrally configure Remote Assistance for a delegated support account in an Active Directory environment.
+
+## What I Learned
+Through this lab, I learned how to configure Remote Assistance by Group Policy in an Active Directory domain environment.
+
+I also learned how to assign a delegated support account as an allowed helper, apply the policy to a target client computer, and verify that the IT Support account could successfully view and control the client computer from a separate admin workstation.
