@@ -90,3 +90,5 @@ This step places the client computer into an OU so that a computer-based Group P
 - Name the GPO:
   - **Configure Remote Assistance**
 - Click **OK**
+
+This step creates a computer-based Group Policy Object and links it to the OU that contains CLIENT01.
