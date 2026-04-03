@@ -114,3 +114,9 @@ This step creates a computer-based Group Policy Object and links it to the OU th
 This step enables Offer Remote Assistance and assigns the helper group that is allowed to provide remote support.
 
 ![Configure Offer Remote Assistance](./screenshots/5_Configure_Offer_Remote_Assistance.png)
+
+### Step 6: Sign In to ADMIN01 with the IT Support Account
+- After the Group Policy has been applied to **CLIENT01**, sign in to **ADMIN01** using the **itsupport** account
+- Open **Windows Remote Assistance**
+
+This step prepares the support workstation for the Remote Assistance test.
