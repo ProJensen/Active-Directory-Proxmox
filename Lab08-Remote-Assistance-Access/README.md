@@ -67,3 +67,9 @@ This step places the IT Support account into the group that will be granted Remo
 
 ![Add Group to User](./screenshots/2_ADD_Group_To_User.png)
 
+### Step 3: Create a Group Policy Object for Remote Assistance
+- Open **Group Policy Management**
+- Locate the OU that contains the **CLIENT01** computer account
+- Right-click the OU and select **Create a GPO in this domain, and Link it here**
+- Name the GPO:
+  - **Configure Remote Assistance**
