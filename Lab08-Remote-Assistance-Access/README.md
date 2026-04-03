@@ -145,3 +145,5 @@ This step starts the Offer Remote Assistance connection from ADMIN01 to CLIENT01
 - Click **Yes** to allow the IT Support account to connect
 
 This step allows the target client computer to accept the Remote Assistance session.
+
+![Remote Assistance Prompt](./screenshots/8_Remote_Assistance_Prompt.png)
