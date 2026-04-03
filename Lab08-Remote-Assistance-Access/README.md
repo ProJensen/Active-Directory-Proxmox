@@ -139,3 +139,9 @@ This step starts the Offer Remote Assistance connection from ADMIN01 to CLIENT01
 ![Advanced Connection Option](./screenshots/7_Advanced_Connection_Option.png)
 
 ![Type Computer Name](./screenshots/7_Type_Computer_Name.png)
+
+### Step 8: Approve the Remote Assistance Request on CLIENT01
+- On **CLIENT01**, review the Remote Assistance prompt
+- Click **Yes** to allow the IT Support account to connect
+
+This step allows the target client computer to accept the Remote Assistance session.
