@@ -137,3 +137,5 @@ This step starts the Offer Remote Assistance connection from ADMIN01 to CLIENT01
 ![Help Someone](./screenshots/7_Help_Someone.png)
 
 ![Advanced Connection Option](./screenshots/7_Advanced_Connection_Option.png)
+
+![Type Computer Name](./screenshots/7_Type_Computer_Name.png)
