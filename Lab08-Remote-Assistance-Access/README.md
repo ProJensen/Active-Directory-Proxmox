@@ -120,3 +120,5 @@ This step enables Offer Remote Assistance and assigns the helper group that is a
 - Open **Windows Remote Assistance**
 
 This step prepares the support workstation for the Remote Assistance test.
+
+![Windows Remote Assistance](./screenshots/6_Windows_Remote_Assistance.png)
