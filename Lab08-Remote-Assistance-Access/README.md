@@ -96,3 +96,17 @@ This step creates a computer-based Group Policy Object and links it to the OU th
 ![Create GPO](./screenshots/4_Create_GPO_Workstations.png)
 
 ![Name GPO](./screenshots/4_Name_GPO.png)
+
+### Step 5: Configure Offer Remote Assistance
+- Right-click the **Configure Remote Assistance** GPO
+- Select **Edit**
+- Go to:
+  - **Computer Configuration > Policies > Administrative Templates > System > Remote Assistance**
+- Open:
+  - **Configure Offer Remote Assistance**
+- Set the policy to **Enabled**
+- Choose:
+  - **Allow helpers to remotely control the computer**
+- Add the allowed helper:
+  - **lab\Remote Assistance Helpers**
+- Click **Apply** and **OK**
