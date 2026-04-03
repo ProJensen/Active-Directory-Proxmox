@@ -92,3 +92,7 @@ This step places the client computer into an OU so that a computer-based Group P
 - Click **OK**
 
 This step creates a computer-based Group Policy Object and links it to the OU that contains CLIENT01.
+
+![Create GPO](./screenshots/4_Create_GPO_Workstations.png)
+
+![Name GPO](./screenshots/4_Name_GPO.png)
