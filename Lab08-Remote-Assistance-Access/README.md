@@ -110,3 +110,7 @@ This step creates a computer-based Group Policy Object and links it to the OU th
 - Add the allowed helper:
   - **lab\Remote Assistance Helpers**
 - Click **Apply** and **OK**
+
+This step enables Offer Remote Assistance and assigns the helper group that is allowed to provide remote support.
+
+![Configure Offer Remote Assistance](./screenshots/5_Configure_Offer_Remote_Assistance.png)
