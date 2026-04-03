@@ -122,3 +122,12 @@ This step enables Offer Remote Assistance and assigns the helper group that is a
 This step prepares the support workstation for the Remote Assistance test.
 
 ![Windows Remote Assistance](./screenshots/6_Windows_Remote_Assistance.png)
+
+### Step 7: Offer Remote Assistance to CLIENT01
+- In **Windows Remote Assistance**, select:
+  - **Help someone who has invited you**
+- Click:
+  - **Advanced connection option for help desk**
+- In the computer name field, enter:
+  - **CLIENT01**
+- Click **Next**
