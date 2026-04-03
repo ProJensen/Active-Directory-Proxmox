@@ -82,3 +82,11 @@ This step places the client computer into an OU so that a computer-based Group P
 ![Workstations](./screenshots/3_Workstations.png)
 
 ![Move CLIENT01](./screenshots/3_Move_CLIENT01.png)
+
+### Step 4: Create and Link a Group Policy Object
+- Open **Group Policy Management**
+- Right-click the **Workstations** OU
+- Select **Create a GPO in this domain, and Link it here**
+- Name the GPO:
+  - **Configure Remote Assistance**
+- Click **OK**
