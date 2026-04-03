@@ -159,3 +159,16 @@ This step verifies that the IT Support account can successfully view and control
 ![Request Control](./screenshots/9_Request_Control.png)
 
 ![Allow Control](./screenshots/9_Allow_Control.png)
+
+## Expected Outcome
+At the end of this lab:
+- A Remote Assistance helper group is created
+- The IT Support account is added to the helper group
+- A Group Policy Object is created and linked to the target computer OU
+- Offer Remote Assistance is enabled through Group Policy
+- The allowed helper group is configured in the policy
+- The IT Support account can offer Remote Assistance from ADMIN01 to CLIENT01
+- The user on CLIENT01 can approve the connection request
+- The IT Support account can successfully view and control CLIENT01 through Remote Assistance
+
+This lab demonstrates how Group Policy can be used to centrally configure Remote Assistance for a delegated support account in an Active Directory environment.
