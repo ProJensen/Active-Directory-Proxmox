@@ -53,3 +53,12 @@ As the IT administrator, I need to use Group Policy to enable Offer Remote Assis
 - Click **OK**
 
 ![New Group](./screenshots/1_New_Group.png)
+
+### Step 2: Add the IT Support Account to the Helper Group
+- Locate the **itsupport** account
+- Open **Properties**
+- Go to the **Member Of** tab
+- Click **Add**
+- Add:
+  - **Remote Assistance Helpers**
+- Click **Apply** and **OK**
