@@ -153,3 +153,5 @@ This step allows the target client computer to accept the Remote Assistance sess
 - In the Remote Assistance session, click **Request control**
 - On **CLIENT01**, approve the control request
 - Confirm that the IT Support account can control the desktop of **CLIENT01**
+
+This step verifies that the IT Support account can successfully view and control the client computer through Remote Assistance.
