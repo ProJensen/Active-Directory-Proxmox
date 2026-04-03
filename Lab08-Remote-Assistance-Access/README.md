@@ -28,3 +28,12 @@ As the IT administrator, I need to use Group Policy to enable Offer Remote Assis
 - Configure the helper group in the policy
 - Verify that the required firewall settings are allowed
 - Test a Remote Assistance connection from ADMIN01 to CLIENT01
+
+## Tools and Services Used
+- Windows Server 2025
+- Windows 11 Pro
+- Active Directory Users and Computers
+- Group Policy Management
+- Windows Remote Assistance
+- Windows Defender Firewall
+- Proxmox VE
