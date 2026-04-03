@@ -19,3 +19,12 @@ The purpose of this project is to demonstrate how remote support access can be c
 A company wants to allow the IT Support account to remotely assist users on domain-joined client computers.
 
 As the IT administrator, I need to use Group Policy to enable Offer Remote Assistance on the target client computer, assign the IT Support account as an allowed helper, and verify that remote assistance can be offered from ADMIN01 to CLIENT01.
+
+## Objectives
+- Create a dedicated security group for Remote Assistance helpers
+- Add the IT Support account to the helper group
+- Create and link a GPO for Remote Assistance
+- Enable Offer Remote Assistance through Group Policy
+- Configure the helper group in the policy
+- Verify that the required firewall settings are allowed
+- Test a Remote Assistance connection from ADMIN01 to CLIENT01
