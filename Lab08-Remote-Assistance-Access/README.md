@@ -26,7 +26,6 @@ As the IT administrator, I need to use Group Policy to enable Offer Remote Assis
 - Create and link a GPO for Remote Assistance
 - Enable Offer Remote Assistance through Group Policy
 - Configure the helper group in the policy
-- Verify that the required firewall settings are allowed
 - Test a Remote Assistance connection from ADMIN01 to CLIENT01
 
 ## Tools and Services Used
@@ -116,7 +115,7 @@ This step enables Offer Remote Assistance and assigns the helper group that is a
 ![Configure Offer Remote Assistance](./screenshots/5_Configure_Offer_Remote_Assistance.png)
 
 ### Step 6: Sign In to ADMIN01 with the IT Support Account
-- After the Group Policy has been applied to **CLIENT01**, sign in to **ADMIN01** using the **itsupport** account
+- After the Remote Assistance policy is applied to **CLIENT01**, sign in to **ADMIN01** using the **itsupport** account
 - Open **Windows Remote Assistance**
 
 This step prepares the support workstation for the Remote Assistance test.
