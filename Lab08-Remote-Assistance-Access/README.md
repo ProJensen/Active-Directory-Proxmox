@@ -78,3 +78,7 @@ This step places the IT Support account into the group that will be granted Remo
 - Move the computer account to the **Workstations** OU
 
 This step places the client computer into an OU so that a computer-based Group Policy can be linked and applied more easily.
+
+![Workstations](./screenshots/3_Workstations.png)
+
+![Move CLIENT01](./screenshots/3_Move_CLIENT01.png)
