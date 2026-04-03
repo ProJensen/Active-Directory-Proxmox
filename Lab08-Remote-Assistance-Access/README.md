@@ -147,3 +147,9 @@ This step starts the Offer Remote Assistance connection from ADMIN01 to CLIENT01
 This step allows the target client computer to accept the Remote Assistance session.
 
 ![Remote Assistance Prompt](./screenshots/8_Remote_Assistance_Prompt.png)
+
+### Step 9: Verify the Remote Assistance Session
+- Confirm that the IT Support account can view the screen of **CLIENT01**
+- In the Remote Assistance session, click **Request control**
+- On **CLIENT01**, approve the control request
+- Confirm that the IT Support account can control the desktop of **CLIENT01**
