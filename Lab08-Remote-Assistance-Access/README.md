@@ -173,6 +173,54 @@ At the end of this lab:
 
 This lab demonstrates how Group Policy can be used to centrally configure Remote Assistance for a delegated support account in an Active Directory environment.
 
+## Common Issues and Troubleshooting
+
+### Issue 1: The Remote Assistance offer could not be sent
+**Possible causes:**
+- The Group Policy did not apply to the target computer
+- The wrong computer name was entered
+- The helper account or group was not configured correctly in the policy
+- The target computer is turned off or not connected to the network
+
+**Troubleshooting steps:**
+- Verify that the GPO is linked to the correct OU
+- Confirm that the target computer is located in the correct OU
+- Review the **Configure Offer Remote Assistance** policy settings
+- Make sure the correct computer name is used
+- Confirm that the target computer is powered on and reachable on the network
+
+### Issue 2: No entries were added to the Helpers list
+**Possible causes:**
+- The helper account or group was not entered correctly
+- The entry was not added to the list before clicking **OK**
+
+**Troubleshooting steps:**
+- In the **Helpers** list, enter the helper in domain format, such as:
+  - **lab\Remote Assistance Helpers**
+- Press **Enter** after typing the entry
+- Confirm that the helper appears in the list before clicking **OK**
+
+### Issue 3: The IT Support account cannot offer Remote Assistance
+**Possible causes:**
+- The IT Support account is not a member of the helper group
+- Group membership changes have not refreshed yet
+- The policy is configured with the wrong helper account or group
+
+**Troubleshooting steps:**
+- Confirm that the **itsupport** account is a member of **Remote Assistance Helpers**
+- Sign out and sign back in to refresh group membership
+- Verify that the correct helper group is entered in the policy
+
+### Issue 4: The connection request appears on CLIENT01, but control is not available
+**Possible causes:**
+- The helper is connected in view-only mode
+- Remote control was not approved on the target computer
+
+**Troubleshooting steps:**
+- In the policy, confirm that **Allow helpers to remotely control the computer** is selected
+- In the Remote Assistance session, click **Request control**
+- On **CLIENT01**, approve the control request
+
 ## What I Learned
 Through this lab, I learned how to configure Remote Assistance by Group Policy in an Active Directory domain environment.
 
