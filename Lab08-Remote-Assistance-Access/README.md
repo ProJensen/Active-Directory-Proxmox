@@ -39,3 +39,15 @@ As the IT administrator, I need to use Group Policy to enable Offer Remote Assis
 - Proxmox VE
 
 ## Administrative Workflow
+
+### Step 1: Create a Security Group for Remote Assistance Helpers
+- Sign in to **DC01**
+- Open **Active Directory Users and Computers**
+- Open the **IT** OU
+- Right-click the OU and select **New > Group**
+- Create a group named:
+  - **Remote Assistance Helpers**
+- Set:
+  - **Group scope:** `Global`
+  - **Group type:** `Security`
+- Click **OK**
