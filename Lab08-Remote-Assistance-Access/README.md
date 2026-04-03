@@ -64,3 +64,6 @@ As the IT administrator, I need to use Group Policy to enable Offer Remote Assis
 - Click **Apply** and **OK**
 
 This step places the IT Support account into the group that will be granted Remote Assistance permissions through Group Policy.
+
+![Add Group to User](./screenshots/2_ADD_Group_To_User.png)
+
