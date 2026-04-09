@@ -1,18 +1,6 @@
 # Active-Directory-Proxmox
 Hands-on Active Directory home lab built with Proxmox and Windows Server.
 
-## Table of Contents
-- [Overview](#overview)
-- [Goals](#goals)
-- [Skills Covered](#skills-covered)
-- [Lab Projects](#lab-projects)
-- [Lab Environment](#lab-environment)
-- [Tools and Technologies](#tools-and-technologies)
-- [Key Learning Areas](#key-learning-areas)
-- [Repository Structure](#repository-structure)
-- [Progress Tracker](#progress-tracker)
-- [Author](#author)
-
 ## Overview
 This repository documents my Active Directory lab projects built in a Proxmox home lab environment.
 
@@ -109,16 +97,6 @@ Active-Directory-Proxmox/
     ├── README.md
     └── screenshots/
 ```
-
-## Progress Tracker
-- [x] Complete Lab 01 - Install AD DS
-- [x] Complete Lab 02 - Create Users, Groups, and OUs
-- [x] Complete Lab 03 - Join Client to Domain
-- [x] Complete Lab 04 - Shared Folder Permission
-- [x] Complete Lab 05 - Map Shared Folder with Group Policy
-- [x] Complete Lab 06 - Password and Account Lockout Policy
-- [x] Complete Lab 07 - Delegated Admin Access
-- [x] Complete Lab 08 - Remote Assistance by Group Policy
 
 ## Author
 **Jenhon Sze**
